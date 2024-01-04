@@ -30,7 +30,7 @@ phone:
 ---
 
 <br>
-<big>_Senior Lecturer, Australian National University_</big>
+<big>_Associate Professor, Australian National University_</big>
 
 
 #### Biography
@@ -42,14 +42,15 @@ M.Sc. in Applied Computer Science (2005) from the
 and Ph.D. in Bioinformatics (2009) from the 
 [University of Vienna](https://www.univie.ac.at) (Austria).
 After a Postdoc at [Max Perutz Labs](https://www.maxperutzlabs.ac.at),
-he joined the [Australian National University (ANU)](https://www.anu.edu.au) as a Senior Research Fellow (2018), 
-a Lecturer (2019), and a Senior Lecturer (2021; equiv. to Assoc. Prof. in the US system).
+he joined the [Australian National University (ANU)](https://www.anu.edu.au) as 
+a Research Fellow (2018), Lecturer (2019), Senior Lecturer (2021), 
+and Associate Professor (2024).
 
 #### Research Interests
 
 Minh is currently the Leader of the _Computational Phylogenomics_ Lab,
-jointly affiliated with the 
-[School of Computing](https://cs.anu.edu.au/)
+a joint collaboration between
+[School of Computing](https://comp.anu.edu.au/)
 and [Research School of Biology](https://biology.anu.edu.au/), ANU.
 His lab focuses on efficient bioinformatic methods, statistical 
 models of molecular evolution, algorithms and high performance computing 
@@ -57,7 +58,9 @@ techniques for phylogenetics from ultra-large genomic data.
 
 #### Awards and Honours
 
-* 2023: Winner, [Eureka Prize](https://australian.museum/get-involved/eureka-prizes/2023-eureka-prize-winners/) for Excellence in Research Software.
+* 2023: Winner, [Eureka Prize](https://australian.museum/get-involved/eureka-prizes/2023-eureka-prize-winners/) 
+  for Excellence in Research Software, together with Prof. Robert Lanfear.
+* 2022: [Highly Cited Researcher](https://recognition.webofscience.com/awards/highly-cited/2023/), Web of Science.
 * 2022: [Field Leader in Evolutionary Biology](https://www.leagueofscholars.com/media/2023%20RESEARCH%20Magazine.pdf), [The Australian](https://www.theaustralian.com.au/special-reports/amphibians-are-endangered-and-not-yet-well-understood/news-story/788f9d180eb8288326f25f3fff7948b7).
 * 2022: [Highly Cited Researcher](https://recognition.webofscience.com/awards/highly-cited/2022/), Web of Science.
 * 2021: [Highly Cited Researcher](https://recognition.webofscience.com/awards/highly-cited/2021/) Web of Science.
@@ -66,6 +69,8 @@ techniques for phylogenetics from ultra-large genomic data.
 
 #### Journal Editorial Boards
 
+* Co-Guest Editor, [special issue on machine learning tools for phylogenetics](https://www.sciencedirect.com/journal/molecular-phylogenetics-and-evolution/about/call-for-papers#machine-learning-tools-for-molecular-phylogenetics-evolutionary-and-population-genomics)
+  [Molecular Phylogenetics and Evolution](https://www.sciencedirect.com/journal/molecular-phylogenetics-and-evolution), 2023.
 * Associate Editor, [Journal of Molecular Evolution](https://www.springer.com/journal/239), 2021-present.
 
 #### Conference organisation
