@@ -48,13 +48,20 @@ and Associate Professor (2024).
 
 #### Research Interests
 
-Minh is currently the Leader of the _Computational Phylogenomics_ Lab,
-a joint collaboration between
-[School of Computing](https://comp.anu.edu.au/)
-and [Research School of Biology](https://biology.anu.edu.au/), ANU.
-His lab focuses on efficient bioinformatic methods, statistical 
-models of molecular evolution, algorithms and high performance computing 
-techniques for phylogenetics from ultra-large genomic data.
+Minh is the leader of the _Computational Phylogenomics_ Lab. 
+His lab's research lies at the interface between Computing, Biology and Statistics, 
+with the motto to enable evolutionary research in the genomic era. 
+His lab develops bioinformatic methods and algorithms, statistical models of molecular evolution, 
+and high-performance computing techniques for phylogenetic inference 
+from ultra-large genomic data. 
+
+Minh leads an international team that jointly develops the widely used 
+[IQ-TREE software](http://www.iqtree.org). IQ-TREE usages are ranging 
+from reconstructing the tree of life to detecting new variations and 
+key mutations of the coronavirus that caused the COVID-19 pandemic.
+
+His lab has strong collaborations with [Research School of Biology](https://biology.anu.edu.au/),
+especially with [Prof. Robert Lanfear's lab](https://biology.anu.edu.au/research/research-groups/lanfear-group-mutation-molecular-evolution-and-phylogenetics).
 
 #### Awards and Honours
 
@@ -69,8 +76,8 @@ techniques for phylogenetics from ultra-large genomic data.
 
 #### Journal Editorial Boards
 
-* Co-Guest Editor, [special issue on machine learning tools for phylogenetics](https://www.sciencedirect.com/journal/molecular-phylogenetics-and-evolution/about/call-for-papers#machine-learning-tools-for-molecular-phylogenetics-evolutionary-and-population-genomics)
-  [Molecular Phylogenetics and Evolution](https://www.sciencedirect.com/journal/molecular-phylogenetics-and-evolution), 2023.
+* Co-Guest Editor, [Molecular Phylogenetics and Evolution](https://www.sciencedirect.com/journal/molecular-phylogenetics-and-evolution),
+  special issue on [machine learning tools for phylogenetics](https://www.sciencedirect.com/journal/molecular-phylogenetics-and-evolution/about/call-for-papers#machine-learning-tools-for-molecular-phylogenetics-evolutionary-and-population-genomics), 2023-present.  
 * Associate Editor, [Journal of Molecular Evolution](https://www.springer.com/journal/239), 2021-present.
 
 #### Conference organisation
