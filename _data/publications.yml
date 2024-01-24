@@ -230,7 +230,7 @@ references:
   - family: Crisp
     given: Michael D.
   - family: Minh
-    given: Bui Q.
+    given: Bui Quang
   - family: Choi
     given: Bokyung
   - family: Edwards
@@ -286,6 +286,29 @@ references:
   URL: https://onlinelibrary.wiley.com/doi/10.1111/jse.13047
   DOI: 10.1111/jse.13047
   ISSN: 1674-4918, 1759-6831
+
+- id: weisman_2023_2024
+  type: article-journal
+  author:
+  - family: Weisman
+    given: Caroline M.
+  - family: Minh
+    given: Bui Quang
+  - family: Liberles
+    given: David A.
+  issued:
+  - year: 2024
+    month: 1
+  accessed:
+  - year: 2024
+    month: 1
+    day: 24
+  title: 2023 Zuckerkandl Prize
+  container-title: Journal of Molecular Evolution
+  page: s00239-024-10153-4
+  URL: https://link.springer.com/10.1007/s00239-024-10153-4
+  DOI: 10.1007/s00239-024-10153-4
+  ISSN: 0022-2844, 1432-1432
 
 - id: ly-trong_alisim-hpc_2023
   type: article-journal
