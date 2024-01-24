@@ -224,6 +224,69 @@ references:
   URL: http://biorxiv.org/lookup/doi/10.1101/2020.11.19.390666
   DOI: 10.1101/2020.11.19.390666
 
+- id: crisp_perianth_2024
+  type: article-journal
+  author:
+  - family: Crisp
+    given: Michael D.
+  - family: Minh
+    given: Bui Q.
+  - family: Choi
+    given: Bokyung
+  - family: Edwards
+    given: Robert D.
+  - family: Hereward
+    given: James
+  - family: Kulheim
+    given: Carsten
+  - family: Lin
+    given: Yen Po
+  - family: Meusemann
+    given: Karen
+  - family: Thornhill
+    given: Andrew H.
+  - family: Toon
+    given: Alicia
+  - family: Cook
+    given: Lyn G.
+  issued:
+  - year: 2024
+    month: 1
+  accessed:
+  - year: 2024
+    month: 1
+    day: 24
+  title: Perianth evolution and implications for generic delimitation in the eucalypts
+    (Myrtaceae), including the description of the new genus, *blakella*
+  container-title: Journal of Systematics and Evolution
+  page: jse.13047
+  abstract: AbstractEucalypts (Myrtaceae tribe Eucalypteae) are currently placed in
+    seven genera. Traditionally, Eucalyptus was defined by its operculum, but when
+    phylogenies placed Angophora , with free sepals and petals, as sister to the operculate
+    bloodwood eucalypts, the latter were segregated into a new genus, Corymbia . Yet,
+    generic delimitation in the tribe Eucalypteae remains uncertain. Here, we address
+    these problems using phylogenetic analysis with the largest molecular data set
+    to date. We captured 101 low‐copy nuclear exons from 392 samples representing
+    266 species. Our phylogenetic analysis used maximum likelihood (IQtree) and multispecies
+    coalescent (Astral). At two nodes critical to generic delimitation, we tested
+    alternative relationships among Arillastrum , Angophora , Eucalyptus , and Corymbia
+    using Shimodaira’s approximately unbiased test. Phylogenetic mapping was used
+    to explore the evolution of perianth traits. Monophyly of Corymbia relative to
+    Angophora was decisively rejected. All alternative relationships among the seven
+    currently recognized Eucalypteae genera imply homoplasy in the evolutionary origins
+    of the operculum. Inferred evolutionary transitions in perianth traits are congruent
+    with divergences between major clades, except that the expression of separate
+    sepals and petals in Angophora , which is nested within the operculate genus Corymbia
+    , appears to be a reversal to the plesiomorphic perianth structure. Here, we formally
+    raise Corymbia subg. Blakella to genus rank and make the relevant new combinations.
+    We also define and name three sections within Blakella ( Blakella sect. Blakella
+    , Blakella sect. Naviculares , and Blakella sect. Maculatae ), and two series
+    within Blakella sect. Maculatae ( Blakella ser. Maculatae and Blakella ser. Torellianae
+    ). Corymbia is reduced to the red bloodwoods.
+  URL: https://onlinelibrary.wiley.com/doi/10.1111/jse.13047
+  DOI: 10.1111/jse.13047
+  ISSN: 1674-4918, 1759-6831
+
 - id: ly-trong_alisim-hpc_2023
   type: article-journal
   author:
