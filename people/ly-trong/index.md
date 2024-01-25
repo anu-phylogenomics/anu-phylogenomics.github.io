@@ -143,7 +143,7 @@ references:
 
 #### Biography
 
-Nhan Trong Ly received his Bachelor of Engineering in Computer Networks and Communications, and his Master degree in Computer Science from the University of Information Technology (UIT) – [Vietnam National University-HoChiMinh City](https://vnuhcm.edu.vn) in 2016 and 2019 respectively.  He is currently a PhD student at the Australian National University (ANU).
+Nhan Trong Ly received his Bachelor of Engineering in Computer Networks and Communications, and his Master degree in Computer Science from the University of Information Technology (UIT) – [Vietnam National University-HoChiMinh City](https://vnuhcm.edu.vn) in 2016 and 2019 respectively.  He is currently a PhD student at the Australian National University (ANU). For more information, please have a look at [his ORCID profile](https://orcid.org/0000-0001-5668-5027). 
 
 #### Research Interests
 
