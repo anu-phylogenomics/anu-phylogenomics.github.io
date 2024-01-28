@@ -29,7 +29,7 @@ references: null
 #### Biography
 Van Nguyen Hoang received her Bachelor of Science in Biochemistry at University of Ulm (Germany) and her Master of Science in Bioinformatics at Justus Liebig University Giessen (Germany) respectively in 2020 and 2023. 
 
-In the mean time of the study in Germany, Van did an internship at Roche Diagnostics where she applied Machine Learning/ Deep Learning into analysing and quantifying histology images. Furthermore, she was a graduate student assistant [TRON GmbH](https://www.tron-mainz.de). There, she focuses on developing and mainting a Python package ([NeoFox](https://neofox.readthedocs.io/en/latest/).
+In the mean time of the study in Germany, Van did an internship at Roche Diagnostics where she applied Machine Learning/ Deep Learning into analysing and quantifying histology images. Furthermore, she was a graduate student assistant [TRON GmbH](https://www.tron-mainz.de). There, she focuses on developing and mainting a Python package ([NeoFox](https://neofox.readthedocs.io/en/latest/)).
 
 
 #### Research Interests
