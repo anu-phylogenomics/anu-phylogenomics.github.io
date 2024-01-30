@@ -60,4 +60,6 @@ we have found:
   Council (CSC), have a look at [ANU-CSC Scholarship](https://study.anu.edu.au/scholarships/find-scholarship/anu-csc-scholarship).
 * If you are from Vietnam, VinGroup offers scholarship for Master and PhD studies, see
   <https://scholarships.vinuni.edu.vn/masters-ph-d-scholarship-program/>.
-
+* If you are from Taiwan, have a look at [Taiwan-ANU scholarship](https://study.anu.edu.au/scholarships/find-scholarship/taiwan-australian-national-university-scholarship).
+* We have collaborations with Diversity Arrays Technology Pty Ltd (DArt). Have
+  a look at <https://study.anu.edu.au/scholarships/find-scholarship/dart-phd-internship>.
