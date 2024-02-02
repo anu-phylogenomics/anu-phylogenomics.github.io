@@ -21,7 +21,7 @@ In your email please always include:
 Please navigate through the following sections for further information
 depending on the position you are applying for.
 
-## ANU undergrad/postgrad students looking for a project
+### ANU undergrad/postgrad students looking for a project
 
 We always offer a few student projects every semester. Please contact
 the lab leader Minh Bui as early as possible, __at least one month before the semester starts__, 
@@ -36,7 +36,7 @@ Projects currently offered in the lab:
 
 However, other topics may be discussed depending on your background and profile.
 
-## Students looking for a PhD position
+### Students looking for a PhD position
 
 Please first have a careful look at:
 
@@ -53,9 +53,13 @@ excellent undergraduate marks, a high-distiction honours or Masters by
 research (or be expecting to gain one soon) or
 equivalent research experience, excellent oral and written English skills.
 
-There are also other source for scholarships. Here are some information
+There are also other source for scholarships. Here are some further information
 we have found:
 
+* If you are from China, there is a scholarship provided by the China Scholarship
+  Council (CSC), have a look at [ANU-CSC Scholarship](https://study.anu.edu.au/scholarships/find-scholarship/anu-csc-scholarship).
 * If you are from Vietnam, VinGroup offers scholarship for Master and PhD studies, see
   <https://scholarships.vinuni.edu.vn/masters-ph-d-scholarship-program/>.
-
+* If you are from Taiwan, have a look at [Taiwan-ANU scholarship](https://study.anu.edu.au/scholarships/find-scholarship/taiwan-australian-national-university-scholarship).
+* We have collaborations with Diversity Arrays Technology Pty Ltd (DArt). Have
+  a look at <https://study.anu.edu.au/scholarships/find-scholarship/dart-phd-internship>.
