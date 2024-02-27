@@ -7,8 +7,8 @@ position: PhD student
 current: true
 period: since 2022
 email: 
-image: Piyumal_profile_image.jpg
-image-small: Piyumal_profile_image.jpg
+image: Piyumal_profile_image.png
+image-small: Piyumal_profile_image.png
 github: piyumalanthony
 google_scholar: CATSwmgAAAAJ
 twitter: DemottePiyumal
