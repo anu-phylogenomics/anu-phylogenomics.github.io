@@ -6,14 +6,14 @@ show-publication: yes
 position: PhD student
 current: yes
 period: since 2024
-email: XXX@anu.edu.au
+email: u7826985@anu.edu.au
 image: "hashara-kumarasinghe.jpg"
 image-small: "hashara-kumarasinghe.jpg"
-github: XXX
-google_scholar: null
+github: Hashara
+google_scholar: EtRv_0sAAAAJ
 twitter: null
-researchgate: null
-ORCID: null
+researchgate: Hashara_Kumarasinghe2
+ORCID: 0000-0001-5926-2169
 address: 
   School of Computing, ANU<br>
   Hanna Neumann Building<br>
@@ -28,10 +28,11 @@ references: null
 
 #### Biography
 
+Hashara Kumarasinghe received her Bachelor of Science in Computer Science and Engineering from the University of Moratuwa, Sri Lanka, in 2022. She is currently a PhD student at the Australian National University (ANU).Please visit her [portfolio](https://hashara.github.io/) for more information.
 
 
 #### Research Interests
 
-
+Her research interest mainly focus oin the field of Computer Science and Bioinformatics, including Phylogenetic Inference, Deep learning, and Computer Vision. She is currently focusing on the development of deep learning techniques for phylogenetic inference.
 
 
