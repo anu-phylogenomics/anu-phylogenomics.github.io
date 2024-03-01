@@ -32,6 +32,6 @@ Huaiyan Ren received his Bachelor of Agriculture in Animal Science from China Ag
 
 #### Research Interests
 
-His research interests mainly focusing on bioinformatic area, especially on phylogenetic methodology and evolutionary history of real lives. He is currently focusing on phylogenetic models under maximum likelihood methods and testing with empirical datasets.
+His research interests mainly focus on bioinformatic area, especially on phylogenetic methodology and evolutionary history of real lives. He is currently focusing on phylogenetic models under maximum likelihood methods and testing with empirical datasets.
 
 
