@@ -7,8 +7,8 @@ position: Master student
 current: true
 period: since 2024
 email: yanghe.dong (at) anu.edu.au
-image: yanghe.png
-image-small: yanghe.png
+image: yanghe.jpg
+image-small: yanghe.jpg
 github: 
 google_scholar: 
 twitter: 
