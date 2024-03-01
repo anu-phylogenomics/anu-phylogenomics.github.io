@@ -168,8 +168,7 @@ references:
   DOI: 10.1101/2020.11.19.390666
   
 - id: wong_mast_2022
-  type: report
-  open-access: true
+  type: article-journal
   author:
   - family: Wong
     given: Thomas KF
