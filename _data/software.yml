@@ -8,4 +8,8 @@
   title: Maximum Parsimony Bootstrap
   description: An efficient software to reconstruct phylogenetic trees by maximum parsimony and ultrafast bootstrap.
   url: http://www.iqtree.org/mpboot/
+- name: DecentTree
+  title: Scalable Neighbour-Joining for the genomic era
+  description: Highly optimized and parallel implementations of Neighbour-Joining and several of its variants.
+  url: https://github.com/iqtree/decenttree
 ...
