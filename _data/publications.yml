@@ -2,7 +2,7 @@
 citation_update: 12 Oct 2022
 references:
 
-- id: huaiyan_mixture_2024
+- id: ren_mixtrue_2021
   type: report
   open-access: true
   author:
@@ -20,38 +20,33 @@ references:
   accessed:
   - year: 2024
     month: 3
-    day: 21
+    day: 22
   title: 'MixtureFinder: Estimating DNA mixture models for phylogenetic analyses'
-  title-short: MixtureFinder: Estimating DNA mixture models for phylogenetic analyses
   container-title: bioRxiv
   publisher: Evolutionary Biology
   genre: preprint
-  abstract: In phylogenetic studies, both partitioned models and mixture models are used to account for heterogeneity in molecular evolution
-    among the sites of DNA sequence alignments. Partitioned models
-    require the user to specify the grouping of sites into subsets,
-    and then assume that each subset of sites can be modelled by a
-    single common process. Mixture models do not require users to
-    pre-specify subsets of sites, and instead calculate the likelihood
-    of every site under every model, while co-estimating the model
-    weights. While much research has gone into the optimisation of
-    partitioned models by merging user-specified subsets, there has
-    been less attention paid to the optimisation of mixture models
-    for DNA sequence alignments. In this study, we first ask
-    whether a key assumption of partitioned models - that each
-    user-specified subset can be modelled by a single common
-    process - is supported by the data. Having shown that this
-    is not the case, we then design, implement, test, and
-    apply an algorithm, MixtureFinder, to select the optimum
-    number of classes for a mixture model of Q matrices for
-    the standard models of DNA sequence evolution. We show
-    this algorithm performs well on simulated and
-    empirical datasets and suggest that it may be useful
-    for future empirical studies. MixtureFinder is
-    available in IQ-TREE2, and a tutorial for using
-    MixtureFinder can be found here:
-    "http://www.iqtree.org/doc/Complex-Models#mixture-models".
-  URL: https://www.biorxiv.org/content/10.1101/2024.03.20.586035
+  abstract: In phylogenetic studies, both partitioned models and mixture models are
+   used to account for heterogeneity in molecular evolution among the sites of DNA 
+   sequence alignments. Partitioned models require the user to specify the grouping 
+   of sites into subsets, and then assume that each subset of sites can be modelled 
+   by a single common process. Mixture models do not require users to pre-specify 
+   subsets of sites, and instead calculate the likelihood of every site under every 
+   model, while co-estimating the model weights. While much research has gone into 
+   the optimisation of partitioned models by merging user-specified subsets, there 
+   has been less attention paid to the optimisation of mixture models for DNA 
+   sequence alignments. In this study, we first ask whether a key assumption of 
+   partitioned models - that each user-specified subset can be modelled by a single 
+   common process - is supported by the data. Having shown that this is not the case, 
+   we then design, implement, test, and apply an algorithm, MixtureFinder, to select 
+   the optimum number of classes for a mixture model of Q matrices for the standard 
+   models of DNA sequence evolution. We show this algorithm performs well on simulated 
+   and empirical datasets and suggest that it may be useful for future empirical 
+   studies. MixtureFinder is available in IQ-TREE2, and a tutorial for using 
+   MixtureFinder can be found here: 
+   http://www.iqtree.org/doc/Complex-Models#mixture-models.
+  URL: http://biorxiv.org/lookup/doi/10.1101/2024.03.20.586035
   DOI: 10.1101/2024.03.20.586035
+  
   
 - id: naser-khdour_influence_2021
   type: report
