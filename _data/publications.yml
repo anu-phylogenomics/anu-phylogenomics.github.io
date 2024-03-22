@@ -9,7 +9,7 @@ references:
   - family: Ren
     given: Huaiyan
   - family: Wong
-    given: Thomas K. F.
+    given: Thomas K F
   - family: Minh
     given: Bui Quang
   - family: Lanfear
@@ -50,7 +50,7 @@ references:
   type: article-journal
   author:
   - family: Wong
-    given: Thomas K. F.
+    given: Thomas K F
   - family: Cherryh
     given: Caitlin
   - family: Rodrigo
@@ -242,7 +242,7 @@ references:
   - family: Barbetti
     given: James
   - family: Wong
-    given: Thomas K. F.
+    given: Thomas K F
   - family: Thornlow
     given: Bryan
   - family: Corbett-Detig
