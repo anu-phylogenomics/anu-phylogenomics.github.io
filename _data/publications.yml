@@ -1,5 +1,5 @@
 ---
-citation_update: 12 Oct 2022
+citation_update: 22 Mar 2024
 references:
 
 - id: ren_mixtrue_2021
@@ -8,8 +8,8 @@ references:
   author:
   - family: Ren
     given: Huaiyan
-  - family: Thomas
-    given: K.F.Wong
+  - family: Wong
+    given: Thomas K. F.
   - family: Minh
     given: Bui Quang
   - family: Lanfear
@@ -216,7 +216,7 @@ references:
   type: article-journal
   author:
   - family: Wong
-    given: Thomas KF
+    given: Thomas K. F.
   - family: Cherryh
     given: Caitlin
   - family: Rodrigo
@@ -408,7 +408,7 @@ references:
   - family: Barbetti
     given: James
   - family: Wong
-    given: Thomas
+    given: Thomas K. F.
   - family: Thornlow
     given: Bryan
   - family: Corbett-Detig
