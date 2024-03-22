@@ -42,8 +42,7 @@ references:
    models of DNA sequence evolution. We show this algorithm performs well on simulated 
    and empirical datasets and suggest that it may be useful for future empirical 
    studies. MixtureFinder is available in IQ-TREE2, and a tutorial for using 
-   MixtureFinder can be found here: 
-   http://www.iqtree.org/doc/Complex-Models#mixture-models.
+   MixtureFinder can be found here
   URL: http://biorxiv.org/lookup/doi/10.1101/2024.03.20.586035
   DOI: 10.1101/2024.03.20.586035
   
