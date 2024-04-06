@@ -1,6 +1,68 @@
 ---
-citation_update: 22 Mar 2024
+citation_update: 6 Apr 2024
 references:
+
+- id: banos_gtrpmix_2024
+  type: no-type
+  author:
+  - family: Banos
+    given: Hector
+  - family: Wong
+    given: Thomas Kf.
+  - family: Daneau
+    given: Justin
+  - family: Susko
+    given: Edward
+  - family: Minh
+    given: Bui Quang
+  - family: Lanfear
+    given: Robert
+  - family: Brown
+    given: Matthew W.
+  - family: Eme
+    given: Laura
+  - family: Roger
+    given: Andrew J.
+  issued:
+  - year: 2024
+    month: 3
+    day: 30
+  accessed:
+  - year: 2024
+    month: 4
+    day: 6
+  title: 'GTRpmix: A linked general-time reversible model for profile mixture models'
+  title-short: GTRpmix
+  abstract: Abstract Profile mixture models capture distinct biochemical constraints
+    on the amino acid substitution process at different sites in proteins. These models
+    feature a mixture of time-reversible models with a common set of amino acid exchange
+    rates (a matrix of exchangeabilities) and distinct sets of equilibrium amino acid
+    frequencies known as profiles. Combining the exchangeability matrix with each
+    profile generates the matrix of instantaneous rates of amino acid exchange for
+    that profile. Currently, empirically estimated exchangeability matrices (e.g.,
+    the LGLG or WAGWAG matrices) are widely used for phylogenetic inference under
+    profile mixture models. However, such matrices were originally estimated using
+    site homogeneous models with a single set of equilibrium amino acid frequencies;
+    therefore unlikely to be optimal for site heterogeneous profile mixture models.
+    Here we describe the GTRpmixGTRpmix model, implemented in IQIQ-TREETREE2, that
+    allows maximum likelihood estimation of a common set of exchangeabilities for
+    all site classes under any profile mixture model. We show that exchangeability
+    matrices estimated in the presence of a site-heterogeneous profile mixture model
+    differ markedly from the widely used LGLG matrix and dramatically improve model
+    fit and topological estimation accuracy for empirical test cases.Because the GTRpmixGTRpmix
+    model is computationally expensive, we provide two exchangeability matrices estimated
+    from large concatenated phylogenomic supermatrices under the C60 profile mixture
+    model that can be used as fixed matrices for phylogenetic analyses. One of these,
+    called Eukaryotic Linked Mixture (ELMELM), is designed for phylogenetic analysis
+    of proteins encoded by nuclear genomes of eukaryotes, and the other, Eukaryotic
+    and Archeal Linked mixture (EALEAL), for reconstructing relationships between
+    eukaryotes and Archaea. These matrices when combined with profile mixture models
+    fit data much better and have improved topology estimation relative to the empirical
+    LGLG matrix combined with the same underlying mixture models. Version v2.3.1 of
+    IQIQ-TREETREE2 implementing these models is available at www.iqtree.org .
+  URL: http://biorxiv.org/lookup/doi/10.1101/2024.03.29.587376
+  DOI: 10.1101/2024.03.29.587376
+  language: en-US
 
 - id: ren_mixtrue_2021
   type: report
