@@ -1,6 +1,68 @@
 ---
-citation_update: 12 Oct 2022
+citation_update: 6 Apr 2024
 references:
+
+- id: banos_gtrpmix_2024
+  type: report
+  author:
+  - family: Banos
+    given: Hector
+  - family: Wong
+    given: Thomas Kf.
+  - family: Daneau
+    given: Justin
+  - family: Susko
+    given: Edward
+  - family: Minh
+    given: Bui Quang
+  - family: Lanfear
+    given: Robert
+  - family: Brown
+    given: Matthew W.
+  - family: Eme
+    given: Laura
+  - family: Roger
+    given: Andrew J.
+  issued:
+  - year: 2024
+    month: 3
+    day: 30
+  accessed:
+  - year: 2024
+    month: 4
+    day: 6
+  title: 'GTRpmix: A linked general-time reversible model for profile mixture models'
+  title-short: GTRpmix
+  abstract: Abstract Profile mixture models capture distinct biochemical constraints
+    on the amino acid substitution process at different sites in proteins. These models
+    feature a mixture of time-reversible models with a common set of amino acid exchange
+    rates (a matrix of exchangeabilities) and distinct sets of equilibrium amino acid
+    frequencies known as profiles. Combining the exchangeability matrix with each
+    profile generates the matrix of instantaneous rates of amino acid exchange for
+    that profile. Currently, empirically estimated exchangeability matrices (e.g.,
+    the LGLG or WAGWAG matrices) are widely used for phylogenetic inference under
+    profile mixture models. However, such matrices were originally estimated using
+    site homogeneous models with a single set of equilibrium amino acid frequencies;
+    therefore unlikely to be optimal for site heterogeneous profile mixture models.
+    Here we describe the GTRpmixGTRpmix model, implemented in IQIQ-TREETREE2, that
+    allows maximum likelihood estimation of a common set of exchangeabilities for
+    all site classes under any profile mixture model. We show that exchangeability
+    matrices estimated in the presence of a site-heterogeneous profile mixture model
+    differ markedly from the widely used LGLG matrix and dramatically improve model
+    fit and topological estimation accuracy for empirical test cases.Because the GTRpmixGTRpmix
+    model is computationally expensive, we provide two exchangeability matrices estimated
+    from large concatenated phylogenomic supermatrices under the C60 profile mixture
+    model that can be used as fixed matrices for phylogenetic analyses. One of these,
+    called Eukaryotic Linked Mixture (ELMELM), is designed for phylogenetic analysis
+    of proteins encoded by nuclear genomes of eukaryotes, and the other, Eukaryotic
+    and Archeal Linked mixture (EALEAL), for reconstructing relationships between
+    eukaryotes and Archaea. These matrices when combined with profile mixture models
+    fit data much better and have improved topology estimation relative to the empirical
+    LGLG matrix combined with the same underlying mixture models. Version v2.3.1 of
+    IQIQ-TREETREE2 implementing these models is available at www.iqtree.org .
+  URL: http://biorxiv.org/lookup/doi/10.1101/2024.03.29.587376
+  DOI: 10.1101/2024.03.29.587376
+  language: en-US
 
 - id: ren_mixtrue_2021
   type: report
@@ -8,8 +70,8 @@ references:
   author:
   - family: Ren
     given: Huaiyan
-  - family: Thomas
-    given: K.F.Wong
+  - family: Wong
+    given: Thomas K F
   - family: Minh
     given: Bui Quang
   - family: Lanfear
@@ -45,178 +107,12 @@ references:
    MixtureFinder can be found here
   URL: http://biorxiv.org/lookup/doi/10.1101/2024.03.20.586035
   DOI: 10.1101/2024.03.20.586035
-  
-  
-- id: naser-khdour_influence_2021
-  type: report
-  open-access: true
-  author:
-  - family: Naser-Khdour
-    given: Suha
-  - family: Minh
-    given: Bui Quang
-  - family: Lanfear
-    given: Robert
-  issued:
-  - year: 2021
-    month: 9
-  accessed:
-  - year: 2021
-    month: 9
-    day: 28
-  title: 'The Influence of Model Violation on Phylogenetic Inference: A Simulation
-    Study'
-  title-short: The Influence of Model Violation on Phylogenetic Inference
-  container-title: bioRxiv
-  publisher: Evolutionary Biology
-  genre: preprint
-  abstract: A bstractPhylogenetic inference typically assumes that the data has evolved
-    under Stationary, Reversible and Homogeneous (SRH) conditions. Many empirical
-    and simulation studies have shown that assuming SRH conditions can lead to significant
-    errors in phylogenetic inference when the data violates these assumptions. Yet,
-    many simulation studies focused on extreme non-SRH conditions that represent worst-case
-    scenarios and not the average empirical dataset. In this study, we simulate datasets
-    under various degrees of non-SRH conditions using empirically derived parameters
-    to mimic real data and examine the effects of incorrectly assuming SRH conditions
-    on inferring phylogenies. Our results show that maximum likelihood inference is
-    generally quite robust to a wide range of SRH model violations but is inaccurate
-    under extreme convergent evolution.
-  URL: http://biorxiv.org/lookup/doi/10.1101/2021.09.22.461455
-  DOI: 10.1101/2021.09.22.461455
-
-- id: cherryh_test_2021
-  type: report
-  open-access: true
-  author:
-  - family: Cherryh
-    given: Caitlin
-  - family: Minh
-    given: Bui Quang
-  - family: Lanfear
-    given: Robert
-  issued:
-  - year: 2021
-    month: 2
-  accessed:
-  - year: 2021
-    month: 2
-    day: 19
-  title: A test statistic to quantify treelikeness in phylogenetics
-  container-title: bioRxiv
-  publisher: Evolutionary Biology
-  genre: preprint
-  abstract: Most phylogenetic analyses assume that the evolutionary history of an
-    alignment (either that of a single locus, or of multiple concatenated loci) can
-    be described by a single bifurcating tree, the so-called the treelikeness assumption.
-    Treelikeness can be violated by biological events such as recombination, introgression,
-    or incomplete lineage sorting, and by systematic errors in phylogenetic analyses.
-    The incorrect assumption of treelikeness may then mislead phylogenetic inferences.
-    To quantify and test for treelikeness in alignments, we develop a test statistic
-    which we call the tree proportion. This statistic quantifies the proportion of
-    the edge weights in a phylogenetic network that are represented in a bifurcating
-    phylogenetic tree of the same alignment. We extend this statistic to a statistical
-    test of treelikeness using a parametric bootstrap. We use extensive simulations
-    to compare tree proportion to a range of related approaches. We show that tree
-    proportion successfully identifies non-treelikeness in a wide range of simulation
-    scenarios, and discuss its strengths and weaknesses compared to other approaches.
-    The power of the tree-proportion test to reject non-treelike alignments can be
-    lower than some other approaches, but these approaches tend to be limited in their
-    scope and/or the ease with which they can be interpreted. Our recommendation is
-    to test treelikeness of sequence alignments with both tree proportion and mosaic
-    methods such as 3Seq. The scripts necessary to replicate this study are available
-    at https://github.com/caitlinch/treelikeness
-  URL: http://biorxiv.org/lookup/doi/10.1101/2021.02.16.431544
-  DOI: 10.1101/2021.02.16.431544
-
-- id: meusemann_are_2020
-  type: report
-  open-access: true
-  author:
-  - family: Meusemann
-    given: Karen
-  - family: Trautwein
-    given: Michelle
-  - family: Friedrich
-    given: Frank
-  - family: Beutel
-    given: Rolf G.
-  - family: Wiegmann
-    given: Brian M.
-  - family: Donath
-    given: Alexander
-  - family: Podsiadlowski
-    given: Lars
-  - family: Petersen
-    given: Malte
-  - family: Niehuis
-    given: Oliver
-  - family: Mayer
-    given: Christoph
-  - family: Bayless
-    given: Keith M.
-  - family: Shin
-    given: Seunggwan
-  - family: Liu
-    given: Shanlin
-  - family: Hlinka
-    given: Ondrej
-  - family: Minh
-    given: Bui Quang
-  - family: Kozlov
-    given: Alexey
-  - family: Morel
-    given: Benoit
-  - family: Peters
-    given: Ralph S.
-  - family: Bartel
-    given: Daniela
-  - family: Grove
-    given: Simon
-  - family: Zhou
-    given: Xin
-  - family: Misof
-    given: Bernhard
-  - family: Yeates
-    given: David K.
-  issued:
-  - year: 2020
-    month: 11
-  accessed:
-  - year: 2020
-    month: 11
-    day: 25
-  title: 'Are fleas highly modified Mecoptera? Phylogenomic resolution of Antliophora
-    (Insecta: Holometabola)'
-  title-short: Are fleas highly modified Mecoptera?
-  container-title: bioRxiv
-  publisher: Evolutionary Biology
-  genre: preprint
-  abstract: AbstractInsect orders have been defined and stable for decades, with few
-    notable exceptions ( e.g ., Blattodea and Psocoptera). One of the few remaining
-    questions of order-level monophyly is that of Mecoptera in respect to the phylogenetic
-    placement of Siphonaptera (fleas). We used a large set of transcriptomic nucleotide
-    sequence data representing 56 species and more than 3,000 single-copy genes to
-    resolve the evolutionary history of Antliophora, including fleas (Siphonaptera),
-    scorpionflies and relatives (Mecoptera), and true flies (Diptera). We find that
-    fleas and mecopterans together are the sister group of flies. However, our data
-    and/or analyses are unable to distinguish whether fleas are sister to a monophyletic
-    Mecoptera, or whether they arose from within extant mecopteran families, rendering
-    Mecoptera paraphyletic. We did not detect parameter bias in our dataset after
-    applying a broad range of detection methods. Counter to a previous hypothesis
-    that placed fleas within Mecoptera as the sister group to wingless boreids (snow
-    fleas), we found a potential sister group relationship between fleas and the enigmatic
-    family Nannochoristidae. Although we lack conclusive evidence, it seems possible
-    that fleas represent the most-species rich group of modern mecopterans and that
-    their parasitic lifestyle and morphological adaptations have simply made them
-    unrecognizable in respect to their order-level classification.
-  URL: http://biorxiv.org/lookup/doi/10.1101/2020.11.19.390666
-  DOI: 10.1101/2020.11.19.390666
-  
+    
 - id: wong_mast_2022
   type: article-journal
   author:
   - family: Wong
-    given: Thomas KF
+    given: Thomas K F
   - family: Cherryh
     given: Caitlin
   - family: Rodrigo
@@ -408,7 +304,7 @@ references:
   - family: Barbetti
     given: James
   - family: Wong
-    given: Thomas
+    given: Thomas K F
   - family: Thornlow
     given: Bryan
   - family: Corbett-Detig
@@ -2566,5 +2462,171 @@ references:
   URL: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/bti594
   DOI: 10.1093/bioinformatics/bti594
   ISSN: 1367-4803, 1460-2059
+
+  
+- id: naser-khdour_influence_2021
+  type: Other reports
+  open-access: true
+  author:
+  - family: Naser-Khdour
+    given: Suha
+  - family: Minh
+    given: Bui Quang
+  - family: Lanfear
+    given: Robert
+  issued:
+  - year: 2021
+    month: 9
+  accessed:
+  - year: 2021
+    month: 9
+    day: 28
+  title: 'The Influence of Model Violation on Phylogenetic Inference: A Simulation
+    Study'
+  title-short: The Influence of Model Violation on Phylogenetic Inference
+  container-title: bioRxiv
+  publisher: Evolutionary Biology
+  genre: preprint
+  abstract: A bstractPhylogenetic inference typically assumes that the data has evolved
+    under Stationary, Reversible and Homogeneous (SRH) conditions. Many empirical
+    and simulation studies have shown that assuming SRH conditions can lead to significant
+    errors in phylogenetic inference when the data violates these assumptions. Yet,
+    many simulation studies focused on extreme non-SRH conditions that represent worst-case
+    scenarios and not the average empirical dataset. In this study, we simulate datasets
+    under various degrees of non-SRH conditions using empirically derived parameters
+    to mimic real data and examine the effects of incorrectly assuming SRH conditions
+    on inferring phylogenies. Our results show that maximum likelihood inference is
+    generally quite robust to a wide range of SRH model violations but is inaccurate
+    under extreme convergent evolution.
+  URL: http://biorxiv.org/lookup/doi/10.1101/2021.09.22.461455
+  DOI: 10.1101/2021.09.22.461455
+
+- id: cherryh_test_2021
+  type: Other reports
+  open-access: true
+  author:
+  - family: Cherryh
+    given: Caitlin
+  - family: Minh
+    given: Bui Quang
+  - family: Lanfear
+    given: Robert
+  issued:
+  - year: 2021
+    month: 2
+  accessed:
+  - year: 2021
+    month: 2
+    day: 19
+  title: A test statistic to quantify treelikeness in phylogenetics
+  container-title: bioRxiv
+  publisher: Evolutionary Biology
+  genre: preprint
+  abstract: Most phylogenetic analyses assume that the evolutionary history of an
+    alignment (either that of a single locus, or of multiple concatenated loci) can
+    be described by a single bifurcating tree, the so-called the treelikeness assumption.
+    Treelikeness can be violated by biological events such as recombination, introgression,
+    or incomplete lineage sorting, and by systematic errors in phylogenetic analyses.
+    The incorrect assumption of treelikeness may then mislead phylogenetic inferences.
+    To quantify and test for treelikeness in alignments, we develop a test statistic
+    which we call the tree proportion. This statistic quantifies the proportion of
+    the edge weights in a phylogenetic network that are represented in a bifurcating
+    phylogenetic tree of the same alignment. We extend this statistic to a statistical
+    test of treelikeness using a parametric bootstrap. We use extensive simulations
+    to compare tree proportion to a range of related approaches. We show that tree
+    proportion successfully identifies non-treelikeness in a wide range of simulation
+    scenarios, and discuss its strengths and weaknesses compared to other approaches.
+    The power of the tree-proportion test to reject non-treelike alignments can be
+    lower than some other approaches, but these approaches tend to be limited in their
+    scope and/or the ease with which they can be interpreted. Our recommendation is
+    to test treelikeness of sequence alignments with both tree proportion and mosaic
+    methods such as 3Seq. The scripts necessary to replicate this study are available
+    at https://github.com/caitlinch/treelikeness
+  URL: http://biorxiv.org/lookup/doi/10.1101/2021.02.16.431544
+  DOI: 10.1101/2021.02.16.431544
+
+- id: meusemann_are_2020
+  type: Other reports
+  open-access: true
+  author:
+  - family: Meusemann
+    given: Karen
+  - family: Trautwein
+    given: Michelle
+  - family: Friedrich
+    given: Frank
+  - family: Beutel
+    given: Rolf G.
+  - family: Wiegmann
+    given: Brian M.
+  - family: Donath
+    given: Alexander
+  - family: Podsiadlowski
+    given: Lars
+  - family: Petersen
+    given: Malte
+  - family: Niehuis
+    given: Oliver
+  - family: Mayer
+    given: Christoph
+  - family: Bayless
+    given: Keith M.
+  - family: Shin
+    given: Seunggwan
+  - family: Liu
+    given: Shanlin
+  - family: Hlinka
+    given: Ondrej
+  - family: Minh
+    given: Bui Quang
+  - family: Kozlov
+    given: Alexey
+  - family: Morel
+    given: Benoit
+  - family: Peters
+    given: Ralph S.
+  - family: Bartel
+    given: Daniela
+  - family: Grove
+    given: Simon
+  - family: Zhou
+    given: Xin
+  - family: Misof
+    given: Bernhard
+  - family: Yeates
+    given: David K.
+  issued:
+  - year: 2020
+    month: 11
+  accessed:
+  - year: 2020
+    month: 11
+    day: 25
+  title: 'Are fleas highly modified Mecoptera? Phylogenomic resolution of Antliophora
+    (Insecta: Holometabola)'
+  title-short: Are fleas highly modified Mecoptera?
+  container-title: bioRxiv
+  publisher: Evolutionary Biology
+  genre: preprint
+  abstract: AbstractInsect orders have been defined and stable for decades, with few
+    notable exceptions ( e.g ., Blattodea and Psocoptera). One of the few remaining
+    questions of order-level monophyly is that of Mecoptera in respect to the phylogenetic
+    placement of Siphonaptera (fleas). We used a large set of transcriptomic nucleotide
+    sequence data representing 56 species and more than 3,000 single-copy genes to
+    resolve the evolutionary history of Antliophora, including fleas (Siphonaptera),
+    scorpionflies and relatives (Mecoptera), and true flies (Diptera). We find that
+    fleas and mecopterans together are the sister group of flies. However, our data
+    and/or analyses are unable to distinguish whether fleas are sister to a monophyletic
+    Mecoptera, or whether they arose from within extant mecopteran families, rendering
+    Mecoptera paraphyletic. We did not detect parameter bias in our dataset after
+    applying a broad range of detection methods. Counter to a previous hypothesis
+    that placed fleas within Mecoptera as the sister group to wingless boreids (snow
+    fleas), we found a potential sister group relationship between fleas and the enigmatic
+    family Nannochoristidae. Although we lack conclusive evidence, it seems possible
+    that fleas represent the most-species rich group of modern mecopterans and that
+    their parasitic lifestyle and morphological adaptations have simply made them
+    unrecognizable in respect to their order-level classification.
+  URL: http://biorxiv.org/lookup/doi/10.1101/2020.11.19.390666
+  DOI: 10.1101/2020.11.19.390666
 
 ...

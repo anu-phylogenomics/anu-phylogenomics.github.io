@@ -2,7 +2,7 @@
 layout: post
 title: How to join us
 author: Admin
-date: 2024-01-04
+date: 2024-04-03
 tags:
   - open position
 categories: 
@@ -14,8 +14,9 @@ Opportunities may occasionally arise and you can contact the lab
 leader, A/Prof. Minh Bui, m.bui (at) anu.edu.au for more details. 
 In your email please always include:
 
-* A written statement, including previous research experience, why you would fit into the lab,
-* Your academic CV,
+* __A written statement why you would fit into the lab__. Note: I will ignore
+  all emails that mainly write about yourself, no matter how excellent your profile is.
+* Your academic CV, incl. GPA from past/current studies.
 * Past and current academic transcript(s).
 
 Please navigate through the following sections for further information
@@ -33,6 +34,7 @@ the School of Computing can be found at:
 Projects currently offered in the lab:
 
 * [High Performance Computing for phylogenetic simulations](https://comp.anu.edu.au/study/projects/high-performance-computing-for-phylogenetic-simulations/)
+* [Machine learning for social goods: Health economic evaluation](https://comp.anu.edu.au/study/projects/machine-learning-for-social-goods-health-economic-evaluation/)
 
 However, other topics may be discussed depending on your background and profile.
 
@@ -56,6 +58,7 @@ equivalent research experience, excellent oral and written English skills.
 There are also other source for scholarships. Here are some further information
 we have found:
 
+* [Australia Awards Scholarships](https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships)
 * If you are from China, there is a scholarship provided by the China Scholarship
   Council (CSC), have a look at [ANU-CSC Scholarship](https://study.anu.edu.au/scholarships/find-scholarship/anu-csc-scholarship).
 * If you are from Vietnam, VinGroup offers scholarship for Master and PhD studies, see
