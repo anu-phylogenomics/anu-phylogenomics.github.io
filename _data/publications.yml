@@ -1,6 +1,53 @@
 ---
-citation_update: 6 Apr 2024
+citation_update: 17 May 2024
 references:
+
+- id: wehbi_order_2024
+  type: no-type
+  author:
+  - family: Wehbi
+    given: Sawsan
+  - family: Wheeler
+    given: Andrew
+  - family: Morel
+    given: Benoit
+  - family: Minh
+    given: Bui Quang
+  - family: Lauretta
+    given: Dante S.
+  - family: Masel
+    given: Joanna
+  issued:
+  - year: 2024
+    month: 4
+    day: 16
+  accessed:
+  - year: 2024
+    month: 5
+    day: 17
+  title: Order of amino acid recruitment into the genetic code resolved by last universal
+    common ancestor’s protein domains
+  abstract: 'Abstract The current “consensus” order in which amino acids were added
+    to the genetic code is based on potentially biased criteria such as absence of
+    sulfur-containing amino acids from the Urey-Miller experiment in which no sulfur
+    was added. Here, we reassess this order by exploiting the fact that proteins that
+    emerged prior to the genetic code’s completion are likely enriched in early amino
+    acids and depleted in late amino acids. We identify the most ancient protein-coding
+    sequences born prior to the archaeal-bacterial split. Amino acid usage in protein
+    sequences whose ancestors date back to a single homolog in the Last Universal
+    Common Ancestor (LUCA) largely matches the consensus order. However, our findings
+    indicate that metal-binding (cysteine and histidine) and sulfur-containing (cysteine
+    and methionine) amino acids were added to the genetic code much earlier than previously
+    thought. Surprisingly, even more ancient protein sequences — those that had already
+    diversified into multiple distinct copies in LUCA — show a different pattern to
+    single copy LUCA sequences: significantly less depleted in the late amino acids
+    tryptophan and tyrosine, and enriched rather than depleted in phenylalanine. This
+    is compatible with at least some of these sequences predating the current genetic
+    code. Their distinct enrichment patterns thus provide hints about earlier, alternative
+    genetic codes.'
+  URL: http://biorxiv.org/lookup/doi/10.1101/2024.04.13.589375
+  DOI: 10.1101/2024.04.13.589375
+  language: en-US
 
 - id: banos_gtrpmix_2024
   type: report
