@@ -2,6 +2,38 @@
 citation_update: 17 May 2024
 references:
 
+- id: Ly-Trong2024.05.15.594295
+  type: report
+  author:
+  - family: Ly-Trong
+    given: Nhan
+  - family: Bielow
+    given: Chris
+  - family: De Maio
+    given: Nicola
+  - family: Minh
+    given: Bui Quang
+  issued:
+  - year: 2024
+  title: 'CMAPLE: Efficient phylogenetic inference in the pandemic era'
+  title-short: CMAPLE
+  container-title: bioRxiv
+  publisher: Cold Spring Harbor Laboratory
+  abstract: 'We have recently introduced MAPLE (MAximum Parsimonious Likelihood
+    Estimation), a new pandemic-scale phylogenetic inference method exclusively designed
+    for genomic epidemiology. In response to the need for enhancing MAPLE’s performance
+    and scalability, here we present two key components: (1) CMAPLE software, a highly
+    optimized C++ reimplementation of MAPLE with many new features and advancements;
+    and (2) CMAPLE library, a suite of Application Programming Interfaces to facilitate
+    the integration of the CMAPLE algorithm into existing phylogenetic inference packages.
+    Notably, we have successfully integrated CMAPLE into the widely used IQ-TREE 2
+    software, enabling its rapid adoption in the scientific community. These advancements
+    serve as a vital step towards better preparedness for future pandemics, offering
+    researchers powerful tools for large-scale pathogen genomic analysis.Competing
+    Interest StatementThe authors have declared no competing interest.'
+  URL: https://www.biorxiv.org/content/early/2024/05/17/2024.05.15.594295
+  DOI: 10.1101/2024.05.15.594295
+
 - id: wehbi_order_2024
   type: report 
   author:
