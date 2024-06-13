@@ -12,4 +12,8 @@
   title: Scalable Neighbour-Joining for the genomic era
   description: Highly optimized and parallel implementations of Neighbour-Joining and several of its variants.
   url: https://github.com/iqtree/decenttree
+- name: CMAPLE
+  title: Efficient phylogenetic inference in the pandemic era
+  description: A highly optimized phylogenetic inference package designed for pathogen data, which includes standalone software and a C++ library.
+  url: https://github.com/iqtree/cmaple
 ...
