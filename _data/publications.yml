@@ -326,17 +326,21 @@ references:
     given: David A.
   issued:
   - year: 2024
-    month: 1
+    month: 2
   accessed:
   - year: 2024
-    month: 1
-    day: 24
-  title: 2023 Zuckerkandl Prize
+    month: 7
+    day: 3
+  title: 2023 zuckerkandl prize
   container-title: Journal of Molecular Evolution
-  page: s00239-024-10153-4
+  container-title-short: J Mol Evol
+  page: '1-2'
+  volume: '92'
+  issue: '1'
   URL: https://link.springer.com/10.1007/s00239-024-10153-4
   DOI: 10.1007/s00239-024-10153-4
   ISSN: 0022-2844, 1432-1432
+  language: en-US
 
 - id: ly-trong_alisim-hpc_2023
   type: article-journal
