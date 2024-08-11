@@ -1,31 +1,37 @@
-\-\-- layout: personnel title: Ng Jun Kiat pubname: Ng Jun Kiat
-show-publication: true position: Honours Student current: true period:
-since 2021 email: junkiat.ng (at) anu.edu.au image: junkiat.jpg
-image-small: junkiat.jpg github: u7338876 google_scholar: twitter:
-researchgate: ORCID: address: \| School of Computing, ANU\<br\> Hanna
-Neumann Building\<br\> 145 Science Rd \<a
-href=\"https://goo.gl/maps/MrrYyptzR98jCZmP6\" class=\"badge
-badge-primary\"\>\<i class=\"fa fa-map-marker\"\>\</i\> map\</a\>\<br\>
-phone:
+---
+layout: personnel
+title: Ng Jun Kiat
+pubname: Ng Jun Kiat
+show-publication: true
+position: Honours Student
+current: true
+period: since 2021
+email: ng.junkiat (at) anu.edu.au
+image: junkiat.jpg
+image-small: junkiat.jpg
+github: u7338876
+address: |
+  School of Computing, ANU<br>
+  Hanna Neumann Building<br>
+  145 Science Rd
+  <a href="https://goo.gl/maps/MrrYyptzR98jCZmP6" class="badge badge-primary"><i class="fa fa-map-marker"></i> map</a><br>
+phone: 
 
-\-\--
+---
 
-\<br\> \<big\>\_Honours Student, Australian National
-University\_\</big\>
+<br>
+<big>Honours Student, Australian National University</big>
 
-\#### Biography
 
-Ng Jun Kiat is currently pursuing a Bachelor of Advanced Computing
-(Honours) at the Australian National University (ANU).
+#### Biography
 
-\#### Research Interests
+Ng Jun Kiat is currently pursuing a Bachelor of Advanced Computing (Honours) at the Australian National University (ANU).
 
-His research interests span Machine Learning and Artificial
-Intelligence. His current research is dedicated to leveraging Machine
-Learning to explore social health, with a particular emphasis on
-understanding the impact of tobacco products and e-cigarettes on
-societal well-being.
+#### Research Interests
 
-\#### Awards and Honours
+His research interests span Machine Learning and Artificial Intelligence. His current research is dedicated to leveraging Machine Learning to explore social health, with a particular emphasis on
+understanding the impact of tobacco products and e-cigarettes on societal well-being.
 
-\* 2020: Singapore Armed Forces (SAF) Merit Scholarship
+#### Awards and Honours
+
+* 2020: Singapore Armed Forces (SAF) Merit Scholarship
