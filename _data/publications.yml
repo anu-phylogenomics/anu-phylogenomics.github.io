@@ -2532,6 +2532,33 @@ references:
   DOI: 10.1093/bioinformatics/bti594
   ISSN: 1367-4803, 1460-2059
   
+- id: ly_thesis_2024
+  type: thesis
+  open-access: true
+  author:
+  - family: Ly-Trong
+    given: Nhan
+  issued:
+  - year: 2024
+    month: 6
+  accessed:
+  - year: 2024
+    month: 8
+    day: 21
+  title: 'Phylogenomics in the pandemic era'
+  container-title: PhD Theses
+  abstract: Phylogenetic inference is fundamental in biology, elucidating evolutionary
+    relationships among organisms and shedding light on species’ origins. During
+    the COVID-19 pandemic, phylogenetic methods are pivotal in discovering the
+    origin, detecting new SARS-CoV-2 variants, and guiding public health decisions.
+    Phylogenetics also plays a key role in understanding Earth’s biodiversity, spanning
+    from the origins of life billions of years ago to the evolution of modern species such as
+    plants and animals. We are now in the genomic era where the ever-growing genomic
+    data poses new challenges - making existing phylogenetic tools intractable, calling
+    for an urgent need for new efficient methods. To fill this gap, I developed several
+    new phylogenetic methods tailored for large-scale genomic data....
+  URL: https://openresearch-repository.anu.edu.au/
+  
 - id: zhuang_thesis_2023
   type: thesis
   open-access: true
