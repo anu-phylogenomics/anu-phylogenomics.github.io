@@ -3,7 +3,7 @@ layout: personnel
 title: Nhan Ly-Trong
 pubname: Nhan Ly-Trong
 show-publication: true
-position: Research Fellow
+position: Associate Research Fellow
 current: true
 period: since 2024
 email: trong.ly (at) anu.edu.au
@@ -24,7 +24,7 @@ phone:
 ---
 
 <br>
-<big>_Research Fellow, Australian National University_</big>
+<big>_Associate Research Fellow, Australian National University_</big>
 
 
 #### Biography
