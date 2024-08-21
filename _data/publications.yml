@@ -2532,7 +2532,7 @@ references:
   DOI: 10.1093/bioinformatics/bti594
   ISSN: 1367-4803, 1460-2059
   
-- id: zora_thesis_2023
+- id: zhuang_thesis_2023
   type: thesis
   open-access: true
   author:
@@ -2558,6 +2558,31 @@ references:
     quartet (4-species) trees. Through comparative analysis, QuartetNet is shown
     to either match or surpass the performance of stat-of-the-art domain method.
   URL: https://hdl.handle.net/1885/733713108
+  
+- id: bui_thesis_2008
+  type: thesis
+  open-access: true
+  author:
+  - family: Minh
+    given: Bui Quang
+  issued:
+  - year: 2008
+    month: 11
+  accessed:
+  - year: 2024
+    month: 8
+    day: 21
+  title: 'Computational Methods in Biodiversity Conservation'
+  container-title: PhD Theses
+  abstract: Conservation genetics is an emerging discipline that aims at employing genetic methods
+    to questions in biodiversity conservation. One main achievement of the  eld is the
+    application of phylogenetic trees to assess the diversity of species (Vane-Wright et al.,
+    1991). Phylogenetic diversity (PD) is a quantitative measure proposed by Faith (1992)
+    that assigns to a set of species the sum of the lengths of the branches connecting the
+    species of interest. If the branch lengths reflect evolutionary distances, PD will be
+    equivalent to the amount of phylogenetic information accumulated by these species. PD
+    therefore aims at preserving as much evolutionary history of species as possible...
+  URL: https://utheses.univie.ac.at/detail/2838
   
 - id: naser-khdour_influence_2021
   type: Other reports
