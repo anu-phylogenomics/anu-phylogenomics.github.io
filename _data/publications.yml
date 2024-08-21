@@ -2531,7 +2531,33 @@ references:
   URL: https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/bti594
   DOI: 10.1093/bioinformatics/bti594
   ISSN: 1367-4803, 1460-2059
-
+  
+- id: zora_thesis_2023
+  type: thesis
+  open-access: true
+  author:
+  - family: Zhuang
+    given: Zora
+  issued:
+  - year: 2023
+    month: 11
+  accessed:
+  - year: 2024
+    month: 8
+    day: 21
+  title: 'QuartetNet: Novel Phylogenetic Quartet Tree Reconstruction Using Neural Networks'
+  container-title: Honours Theses
+  abstract: Phylogenetic reconstruction is fundamental problem in bioinformatics that studies the
+    origins and evolutionary of species. Traditionally, statistical inference methods have
+    been used to reconstruct phylogentic tree from a Multiple Sequence Alignment (MSA)
+    of species, visualising the evolutionary history using a tree structure. However, those
+    methods are either inaccurate or time-consuming. Supervised machine learning, as an
+    fast yet accurate alternative, can be used to reconstruct a phylogenetic tree by predicting
+    the topology and branch lengths of the tree. In this study, we propose QuartetNet, a
+    novel phylogentic reconstruction framework that uses neural networks (NNs) for reconstructing
+    quartet (4-species) trees. Through comparative analysis, QuartetNet is shown
+    to either match or surpass the performance of stat-of-the-art domain method.
+  URL: https://hdl.handle.net/1885/733713108
   
 - id: naser-khdour_influence_2021
   type: Other reports
