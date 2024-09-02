@@ -30,7 +30,7 @@ references:
 
 #### Biography
 
-Chen Yang received his bachelor of Engineering in Electronic Science and Technology at Beijing University of Posts and Telecommunications (BUPT), and his Master degree in Machine Learning and Computer Vision at the Australian National University (ANU) in 2020 and 2022, respectively. He currently work at the ANU as research assistant for Dr. Silviana Tana, and participate in a research project at the ANU Phylogenomics Lab under the supervision of Nhan Ly-Trong.
+Chen Yang received his bachelor of Engineering in Electronic Science and Technology at Beijing University of Posts and Telecommunications (BUPT), and his Master degree in Machine Learning and Computer Vision at the Australian National University (ANU) in 2020 and 2022, respectively. He currently work at the ANU as research assistant for Dr. Silviana Tana, and participate in a research project at the ANU Phylogenomics Lab under the supervision of Assoc. Prof. Minh Bui and Nhan Ly-Trong.
 
 #### Research Interests
 
