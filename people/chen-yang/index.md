@@ -9,7 +9,7 @@ period: 2022
 email: u7201888@anu.edu.au
 image: Chen.jpg
 image-small: Chen.jpg
-github:Clipper1331757
+github: Clipper1331757
 google_scholar: 
 twitter: 
 researchgate: 
