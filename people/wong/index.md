@@ -7,8 +7,8 @@ current: true
 associate: false
 period: since 2023
 email: thomas.wong (at) anu.edu.au
-image: King-Fung-Wong.jpg
-image-small: King-Fung-Wong-small.jpg
+image: King-Fung-Wong.png
+image-small: King-Fung-Wong-small.png
 github: thomaskf
 google_scholar: zZT0fKUAAAAJ
 twitter: thomaskfwong
