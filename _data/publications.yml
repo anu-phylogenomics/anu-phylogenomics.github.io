@@ -2,6 +2,69 @@
 citation_update: 3 Sep 2024
 references:
 
+- id: roger_robustly_rooted_tree_2024
+  type: report
+  open-access: true
+  author:
+  - family: Roger
+    given: Andrew
+  - family: Williamson
+    given: Kelsey
+  - family: Eme
+    given: Laura
+  - family: Baños
+    given: Hector
+  - family: McCarthy
+    given: Charley
+  - family: Susko
+    given: Edward
+  - family: Kamikawa
+    given: Ryoma
+  - family: Orr
+    given: Russell
+  - family: Muñoz-Góme
+    given: Sergio
+  - family: Minh
+    given: Bui Quang
+  - family: Simpson
+    given: Alastair
+  issued:
+  - year: 2024
+    month: 9
+  accessed:
+  - year: 2024
+    month: 9
+    day: 25
+  title: 'A robustly rooted tree of eukaryotes reveals their excavate ancestry'
+  container-title: bioRxiv
+  publisher: Evolutionary Biology
+  genre: preprint
+  abstract: The eukaryote Tree of Life (eToL) depicts the relationships among
+    all eukaryotic organisms; its root represents the last eukaryotic common
+    ancestor (LECA) from which all extant complex lifeforms are descended.
+    Locating this root is crucial for reconstructing the features of LECA,
+    both as the endpoint of eukaryogenesis and the start-point for the
+    evolution of the myriad complex traits underpinning the diversification
+    of living eukaryotes. However, the position of the root remains contentious
+    due to pervasive phylogenetic artefacts stemming from inadequate evolutionary
+    models, poor taxon sampling, and limited phylogenetic signal. Here, we
+    estimate the root of the eToL with unprecedented resolution based on
+    a new, much larger, dataset of mitochondrial proteins which includes
+    all known eukaryotic supergroups. Our comprehensive analyses with
+    state-of-the-art phylogenetic models reveal that the eukaryotic
+    root lies between two multi-supergroup assemblages ‘Opimoda+’ and
+    ‘Diphoda+’. Compellingly, this position is consistently supported
+    across different models and robustness analyses. Notably, groups
+    containing ‘typical excavates’ are placed on both sides of the root,
+    suggesting the complex features of the ‘excavate’ cell architecture
+    trace back to LECA. This study is the most comprehensive phylogenetic
+    investigation of the eukaryote root to date, shedding light on the
+    ancestral cells from which extant eukaryotes arose and providing a
+    crucial framework for investigating the origin and evolution of
+    canonical eukaryotic features.
+  URL: https://doi.org/10.21203/rs.3.rs-5059906/v1
+  DOI: 10.21203/rs.3.rs-5059906/v1
+
 - id: nicola_rate_2024
   type: report
   open-access: true
