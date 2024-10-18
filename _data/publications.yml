@@ -6,8 +6,6 @@ references:
   type: report
   open-access: true
   author:
-  - family: Roger
-    given: Andrew
   - family: Williamson
     given: Kelsey
   - family: Eme
@@ -28,6 +26,8 @@ references:
     given: Bui Quang
   - family: Simpson
     given: Alastair
+  - family: Roger
+    given: Andrew
   issued:
   - year: 2024
     month: 9
