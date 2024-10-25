@@ -9,6 +9,7 @@ period: since 2023
 email: zora.zhuang@anu.edu.au
 image: zora-zhuang.jpg
 image-small: zora-zhuang.jpg
+notes: <a href="https://doi.org/10.25911/7N0A-G389">"QuartetNet: Novel Phylogenetic Quartet Tree Reconstruction Using Neural Networks"</a> (Honours thesis)
 github:
 google_scholar: 
 twitter: 
