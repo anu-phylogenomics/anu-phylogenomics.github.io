@@ -5,7 +5,7 @@ pubname: Diep Thi Hoang
 position: PhD student
 current: false
 period: 2013-2017
-notes: Fast methods for phylogenetic bootstrap with large data sets (PhD thesis) 
+notes: <a href="alumni/diep-phd-thesis.pdf">Fast methods for phylogenetic bootstrap with large data sets</a> (PhD thesis, in Vietnamese) 
 email: 
 image: 
 github: 
