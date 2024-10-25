@@ -55,6 +55,7 @@ title_heading: true
 		<p>
 		<strong>{{ person.title }},</strong>
 		<em>{{person.position}}</em>, {{person.period}}
+		<% if person.notes %>, {{person.notes}}<% endif %>
 	    </p>
     {% endfor %}
 
