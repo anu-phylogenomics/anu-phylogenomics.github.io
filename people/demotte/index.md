@@ -192,6 +192,7 @@ His research interests mainly focus on Computer Science and Bioinformatics, cons
 
 #### Awards and Honours
 
+* 2024: One of the two nominees from ANU for the Google PhD Fellowship.
 * 2022: Australian Government Research Training Program International Scholarship (covers living stipends) & Australian Government Research Training Program International Fee-Offset Scholarship (provides tuition fees).
 * 2023: ARC Training Center for Future Crops Development Scholarship.
 
