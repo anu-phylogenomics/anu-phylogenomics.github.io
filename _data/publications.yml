@@ -88,8 +88,6 @@ references:
   type: report
   open-access: true
   author:
-  - family: Roger
-    given: Andrew
   - family: Williamson
     given: Kelsey
   - family: Eme
@@ -110,6 +108,8 @@ references:
     given: Bui Quang
   - family: Simpson
     given: Alastair
+  - family: Roger
+    given: Andrew
   issued:
   - year: 2024
     month: 9
@@ -320,6 +320,10 @@ references:
     day: 21
   title: 'GTRpmix: A linked general-time reversible model for profile mixture models'
   title-short: GTRpmix
+  container-title: Molecular Biology and Evolution
+  page: msae134
+  volume: '92'
+  issue: '1'
   abstract: Profile mixture models capture distinct biochemical constraints on the amino acid substitution process at different sites in proteins. These models feature a mixture of time-reversible models with a common matrix of exchangeabilities and distinct sets of equilibrium amino acid frequencies known as profiles. Combining the exchangeability matrix with each profile generates the matrix of instantaneous rates of amino acid exchange for that profile. Currently, empirically estimated exchangeability matrices (e.g., the LG matrix) are widely used for phylogenetic inference under profile mixture models. However, these were estimated using a single profile and are unlikely optimal for profile mixture models. Here, we describe the GTRpmix model that allows maximum likelihood estimation of a common exchangeability matrix under any profile mixture model. We show that exchangeability matrices estimated under profile mixture models differ from the LG matrix, dramatically improving model fit and topological estimation accuracy for empirical test cases. Because the GTRpmix model is computationally expensive, we provide two exchangeability matrices estimated from large concatenated phylogenomic-supermatrices to be used for phylogenetic analyses. One, called Eukaryotic Linked Mixture (ELM), is designed for phylogenetic analysis of proteins encoded by nuclear genomes of eukaryotes, and the other, Eukaryotic and Archaeal Linked mixture (EAL), for reconstructing relationships between eukaryotes and Archaea. These matrices, combined with profile mixture models, fit data better and have improved topology estimation relative to the LG matrix combined with the same mixture models. Starting with version 2.3.1, IQ-TREE2 allows users to estimate linked exchangeabilities (i.e. amino acid exchange rates) under profile mixture models.
   URL: https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msae174/7735827
   DOI: 10.1093/molbev/msae174
@@ -351,6 +355,8 @@ references:
   title-short: CMAPLE
   container-title: Molecular Biology and Evolution
   page: msae134
+  volume: '41'
+  issue: '7'
   abstract: 'Abstract We have recently introduced MAPLE (MAximum Parsimonious Likelihood
     Estimation), a new pandemic-scale phylogenetic inference method exclusively designed
     for genomic epidemiology. In response to the need for enhancing MAPLE’s performance
@@ -392,6 +398,9 @@ references:
   title: 'MAST: Phylogenetic Inference with Mixtures Across Sites and Trees'
   title-short: MAST
   container-title: Systematic Biology
+  page: '375–391'
+  volume: '73'
+  issue: '2'
   publisher: Oxford Academic
   abstract: Hundreds or thousands of loci are now routinely used in modern phylogenomic
     studies. Concatenation approaches to tree inference assume that there is a single
@@ -457,7 +466,9 @@ references:
   title: Perianth evolution and implications for generic delimitation in the eucalypts
     (Myrtaceae), including the description of the new genus, *blakella*
   container-title: Journal of Systematics and Evolution
-  page: jse.13047
+  page: '942-962'
+  volume: '62'
+  issue: '5'
   abstract: AbstractEucalypts (Myrtaceae tribe Eucalypteae) are currently placed in
     seven genera. Traditionally, Eucalyptus was defined by its operculum, but when
     phylogenies placed Angophora , with free sepals and petals, as sister to the operculate
@@ -535,6 +546,8 @@ references:
   title-short: AliSim-HPC
   container-title: Bioinformatics
   page: btad540
+  volume: '39'
+  issue: '9'
   abstract: AbstractMotivation Sequence simulation plays a vital role in phylogenetics
     with many applications, such as evaluating phylogenetic methods, testing hypotheses,
     and generating training data for machine-learning applications. We recently introduced
@@ -592,6 +605,8 @@ references:
   title-short: DecentTree
   container-title: Bioinformatics
   page: btad536
+  volume: '39'
+  issue: '9'
   abstract: AbstractMotivation Neighbour-Joining is one of the most widely used distance-based
     phylogenetic inference methods. However, current implementations do not scale
     well for datasets with more than 10,000 sequences. Given the increasing pace of
@@ -760,6 +775,8 @@ references:
   title-short: AliSim
   container-title: Molecular Biology and Evolution
   page: msac092
+  volume: '39'
+  issue: '5'
   abstract: Abstract Sequence simulators play an important role in phylogenetics.
     Simulated data has many applications, such as evaluating the performance of different
     methods, hypothesis testing with parametric bootstraps, and, more recently, generating

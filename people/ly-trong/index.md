@@ -3,7 +3,7 @@ layout: personnel
 title: Nhan Ly-Trong
 pubname: Nhan Ly-Trong
 show-publication: true
-position: Associate Research Fellow
+position: Research Associate
 current: true
 period: since 2024
 email: trong.ly (at) anu.edu.au
@@ -24,12 +24,12 @@ phone:
 ---
 
 <br>
-<big>_Associate Research Fellow, Australian National University_</big>
+<big>_Research Associate, Australian National University_</big>
 
 
 #### Biography
 
-Nhan Ly-Trong received his Bachelor of Engineering in Computer Networks and Communications, and his Master degree in Computer Science from the University of Information Technology (UIT) – [Vietnam National University-HoChiMinh City](https://vnuhcm.edu.vn) in 2016 and 2019, respectively. He recently submitted his PhD thesis in June 2024 and started his Associate Research Fellow in August 2024 both at the Australian National University (ANU). For more information, please have a look at [his ORCID profile](https://orcid.org/0000-0001-5668-5027). 
+Nhan Ly-Trong received his Bachelor of Engineering in Computer Networks and Communications, and his Master degree in Computer Science from the University of Information Technology (UIT) – [Vietnam National University-HoChiMinh City](https://vnuhcm.edu.vn) in 2016 and 2019, respectively. He recently submitted his PhD thesis in June 2024 and started his Research Associate in August 2024 both at the Australian National University (ANU). For more information, please have a look at [his ORCID profile](https://orcid.org/0000-0001-5668-5027). 
 
 #### Research Interests
 
