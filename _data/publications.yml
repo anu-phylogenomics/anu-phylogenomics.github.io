@@ -2805,11 +2805,11 @@ references:
     given: Nhan
   issued:
   - year: 2024
-    month: 6
+    month: 11
   accessed:
   - year: 2024
-    month: 8
-    day: 21
+    month: 12
+    day: 9
   title: 'Phylogenomics in the pandemic era'
   container-title: PhD Theses
   abstract: Phylogenetic inference is fundamental in biology, elucidating evolutionary
@@ -2822,7 +2822,7 @@ references:
     data poses new challenges - making existing phylogenetic tools intractable, calling
     for an urgent need for new efficient methods. To fill this gap, I developed several
     new phylogenetic methods tailored for large-scale genomic data....
-  URL: https://openresearch-repository.anu.edu.au/
+  URL: https://hdl.handle.net/1885/733724780
   
 - id: zhuang_thesis_2023
   type: thesis
