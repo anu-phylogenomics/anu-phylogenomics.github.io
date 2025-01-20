@@ -199,7 +199,7 @@ references:
   DOI: 10.1101/2024.07.12.603240
 
 - id: ren_mixtrue_2021
-  type: report
+  type: article-journal
   open-access: true
   author:
   - family: Ren
@@ -212,15 +212,16 @@ references:
     given: Robert
   issued:
   - year: 2024
-    month: 3
+    month: 12
   accessed:
-  - year: 2024
-    month: 3
-    day: 22
+  - year: 2025
+    month: 1
+    day: 20
   title: 'MixtureFinder: Estimating DNA mixture models for phylogenetic analyses'
-  container-title: bioRxiv
-  publisher: Evolutionary Biology
-  genre: preprint
+  container-title: Molecular Biology and Evolution
+  page: msae264
+  volume: '42'
+  issue: '1'
   abstract: In phylogenetic studies, both partitioned models and mixture models are
    used to account for heterogeneity in molecular evolution among the sites of DNA 
    sequence alignments. Partitioned models require the user to specify the grouping 
@@ -239,8 +240,8 @@ references:
    and empirical datasets and suggest that it may be useful for future empirical 
    studies. MixtureFinder is available in IQ-TREE2, and a tutorial for using 
    MixtureFinder can be found here
-  URL: http://biorxiv.org/lookup/doi/10.1101/2024.03.20.586035
-  DOI: 10.1101/2024.03.20.586035
+  URL: hhttps://academic.oup.com/mbe/article/42/1/msae264/7931682
+  DOI: 10.1093/molbev/msae264
 
 - id: wehbi_order_2024
   type: article-journal
