@@ -211,8 +211,8 @@ references:
   - family: Lanfear
     given: Robert
   issued:
-  - year: 2024
-    month: 12
+  - year: 2025
+    month: 1
   accessed:
   - year: 2025
     month: 1
@@ -240,7 +240,7 @@ references:
    and empirical datasets and suggest that it may be useful for future empirical 
    studies. MixtureFinder is available in IQ-TREE2, and a tutorial for using 
    MixtureFinder can be found here
-  URL: hhttps://academic.oup.com/mbe/article/42/1/msae264/7931682
+  URL: https://doi.org/10.1093/molbev/msae264
   DOI: 10.1093/molbev/msae264
 
 - id: wehbi_order_2024
