@@ -9,7 +9,7 @@ period: since February 2025
 email: u7469137@anu.edu.au
 image: "rosalita_rosenberg.png"
 image-small: "rosalita_rosenberg.png"
-github: XXX
+github: null
 google_scholar: null
 twitter: null
 researchgate: null
