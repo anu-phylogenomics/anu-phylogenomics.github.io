@@ -2775,35 +2775,6 @@ references:
   DOI: 10.1093/bioinformatics/bti594
   ISSN: 1367-4803, 1460-2059
   
-- id: dong_thesis_2024
-  type: thesis
-  open-access: true
-  author:
-  - family: Dong
-    given: Yanghe
-  issued:
-  - year: 2024
-    month: 10
-  accessed:
-  - year: 2024
-    month: 10
-    day: 30
-  title: 'Phylogenetic Model Selection via Machine Learning'
-  container-title: Master Theses
-  abstract: 'Phylogenetic inference, which reconstructs evolutionary trees
-    from DNA or amino acid sequences, is crucial for understanding the
-    evolutionary histories of species on Earth. Model selection is a
-    fundamental step in this process, determining the best-fit model for
-    the data. However, classic maximum likelihood-based methods for model
-    selection are computationally intensive. This study introduces a machine
-    learning-based framework for amino acid model selection, consisting
-    of three components: protFinder for selecting the best-fit substitution
-    model, RHASFinder for identifying the appropriate rate heterogeneity
-    model, and protFFinder for determining the use of empirical pre-estimated
-    frequencies. Our framework is an order of magnitude faster than the
-    widely used ModelFinder, while maintaining comparable accuracy.'
-  URL: https://hdl.handle.net/1885/733721968
-  
 - id: ly_thesis_2024
   type: thesis
   open-access: true
