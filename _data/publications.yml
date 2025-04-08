@@ -2,6 +2,37 @@
 citation_update: 3 Sep 2024
 references:
 
+- id: robust_phylogenetics_qin_2025
+  type: report
+  open-access: true
+  author:
+  - family: Liu
+    given: Qin
+  - family: Minh
+    given: Bui Quang
+  - family: Lanfear
+    given: Robert
+  - family: Charleston
+    given: Michael A.
+  - family: Richards
+    given: Shane A.
+  - family: Holland
+    given: Barbara R.
+  issued:
+  - year: 2025
+    month: 04
+  accessed:
+  - year: 2025
+    month: 04
+    day: 08
+  title: 'Robust Phylogenetics'
+  container-title: bioRxiv
+  publisher: Evolutionary Biology
+  genre: preprint
+  abstract: 'We present a robust phylogenetic inference method, called the trimmed log-likelihood method, which effectively identifies fast-evolving, saturated, or erroneous sites in both simulated and empirical multiple sequence alignments. This method avoids circularity by dynamically identifying and removing sites without relying on an initial tree, allowing the specific sites removed to change as tree topology and branch lengths are estimated. Our analyses demonstrate that this method outperforms existing approaches, such as the Slow-Fast method, Tree Independent Generation of Evolutionary Rate approach, and Le Quesne Probability statistics, by removing fewer sites while still inferring phylogenies with comparable or greater accuracy. Implemented in IQ-TREE2, the trimmed log-likelihood method is user-friendly with a simple command-line interface. However, challenges remain in addressing heterogeneous evolutionary processes including compositional biases, such as GC bias. Despite these challenges, our approach offers a practical solution for improving phylogenetic inference by automatically and dynamically identifying sites to down-weight during phylogenetic analyses. We recommended that researchers compare trees inferred by varying the proportion of down-weighted sites to monitor changes in tree topology and to identify a set of candidate tree topologies for further consideration.'
+  URL: https://doi.org/10.1101/2025.04.01.646540
+  DOI: 10.1101/2025.04.01.646540
+  
 - id: nhan_treeformer_2024
   type: report
   open-access: true
