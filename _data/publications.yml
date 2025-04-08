@@ -2,6 +2,51 @@
 citation_update: 3 Sep 2024
 references:
 
+- id: iqtree3_thomas_2025
+  type: report
+  open-access: true
+  author:
+  - family: Wong
+    given: Thomas K F
+  - family: Ly-Trong
+    given: Nhan
+  - family: Ren
+    given: Huaiyan
+  - family: Baños
+    given: Hector
+  - family: Roger
+    given: Andrew
+  - family: Susko
+    given: Edward
+  - family: Bielow
+    given: Chris
+  - family: De Maio
+    given: Nicola
+  - family: Goldman
+    given: Nick
+  - family: Hahn
+    given: Matthew W
+  - family: Huttley
+    given: Gavin
+  - family: Lanfear
+    given: Robert
+  - family: Minh
+    given: Bui Quang
+  issued:
+  - year: 2025
+    month: 04
+  accessed:
+  - year: 2025
+    month: 04
+    day: 08
+  title: 'IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models'
+  container-title: ecoevorxiv
+  publisher: Evolutionary Biology
+  genre: preprint
+  abstract: 'IQ-TREE (http://www.iqtree.org) is a widely used open-source software tool for efficiently inferring phylogenetic trees under maximum likelihood. Here, we present IQ-TREE version 3, the third major release of the software. IQ-TREE 3 significantly extends version 2 with new features, including mixture models as an alternative to partitioned models, gene and site concordance factors to quantify discordance between genomic regions, and a fully-featured sequence simulator. The IQ-TREE 3 source code is available at https://github.com/iqtree/iqtree3.'
+  URL: https://doi.org/10.32942/X2P62N
+  DOI: 10.32942/X2P62N
+  
 - id: robust_phylogenetics_qin_2025
   type: report
   open-access: true
