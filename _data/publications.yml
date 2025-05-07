@@ -2,6 +2,37 @@
 citation_update: 3 Sep 2024
 references:
 
+- id: iq2mc_piyumal_2025
+  type: report
+  open-access: true
+  author:
+  - family: Demotte
+    given: Piyumal
+  - family: Panchaksaram
+    given: Muthukumaran
+  - family: Kumarasinghe
+    given: Hashara
+  - family: Ly-Trong
+    given: Nhan
+  - family: Reis
+    given: Mario dos
+  - family: Minh
+    given: Bui Quang
+  issued:
+  - year: 2025
+    month: 05
+  accessed:
+  - year: 2025
+    month: 05
+    day: 07
+  title: 'IQ2MC: A New Framework to Infer Phylogenetic Time Trees Using IQ-TREE 3 and MCMCTree with Mixture Models'
+  container-title: ecoevorxiv
+  publisher: Evolutionary Biology
+  genre: preprint
+  abstract: 'IQ-TREE and MCMCTree are two widely used phylogenetic tools to infer phylogenetic trees and estimate divergence times, respectively. As MCMCTree performs fast approximate Markov Chain Monte Carlo sampling to obtain the times along a fixed tree topology, it would be natural to use IQ-TREE to obtain the tree. However, it is currently not possible to integrate these tools seamlessly, as MCMCTree requires pre-calculation of the gradients and Hessian for fast approximate calculation of the likelihood, which is unavailable in IQ-TREE. Furthermore, MCMCTree only implements a small subset of substitution models; and complex models such as the mixture models are not available. This is an important limitation because complex substitution models are required for reliable estimates of divergence times in deep phylogenies. Here, we introduce a new pipeline IQ2MC, which facilitates the integration of IQ-TREE 3 and MCMCTree, substantially speeds up the pre-calculation steps, and allows the use of a wide range of IQ-TREE’s complex models in divergence time inference. IQ2MC provides an updated version IQ-TREE 3.0.1 to calculate the gradients and Hessian at the maximum likelihood branch lengths, and then MCMCTree is used for MCMC sampling of divergence times. IQ2MC also provides several advanced partition models and mixture models not available in the current MCMCTree workflow. We finally show the applications of IQ2MC on simulated and four empirical datasets of placental mammals, plants, eukaryotes/prokaryotes, and metazoan. A tutorial to use IQ2MC is available at https://iqtree.github.io/doc/Dating.'
+  URL: https://doi.org/10.32942/X2CD2X
+  DOI: 10.32942/X2CD2X
+  
 - id: iqtree3_thomas_2025
   type: report
   open-access: true
