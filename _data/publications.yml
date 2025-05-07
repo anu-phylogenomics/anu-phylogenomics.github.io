@@ -35,6 +35,7 @@ references:
   
 - id: iqtree3_thomas_2025
   type: report
+  selected: true
   open-access: true
   author:
   - family: Wong
@@ -308,6 +309,7 @@ references:
 - id: ren_mixtrue_2021
   type: article-journal
   open-access: true
+  selected: true
   author:
   - family: Ren
     given: Huaiyan
@@ -445,6 +447,7 @@ references:
 
 - id: ly-trong_cmaple_2024
   type: article-journal
+  selected: true
   author:
   - family: Ly-Trong
     given: Nhan
@@ -489,6 +492,7 @@ references:
 
 - id: wong_mast_2022
   type: article-journal
+  selected: true
   author:
   - family: Wong
     given: Thomas K F
@@ -639,6 +643,7 @@ references:
 
 - id: ly-trong_alisim-hpc_2023
   type: article-journal
+  selected: true
   author:
   - family: Ly-Trong
     given: Nhan
@@ -744,7 +749,6 @@ references:
 
 - id: de_maio_maximum_2023
   type: article-journal
-  selected: true
   author:
   - family: De Maio
     given: Nicola
@@ -863,7 +867,6 @@ references:
 
 - id: ly-trong_alisim_2022
   type: article-journal
-  selected: true
   open-access: true
   author:
   - family: Ly-Trong
@@ -912,7 +915,6 @@ references:
 
 - id: dang_nqmaker_2022
   type: article-journal
-  selected: true
   open-access: true
   author:
   - family: Dang
@@ -1149,7 +1151,6 @@ references:
 
 - id: vanderpool_primate_2020
   type: article-journal
-  selected: true
   open-access: true
   photo: plos-biol-2020-12.png
   author:
@@ -1383,7 +1384,6 @@ references:
 
 - id: minh_iq-tree_2020
   type: article-journal
-  selected: true
   open-access: true
   photo: mol-biol-evol-37-5.jpeg
   author:
