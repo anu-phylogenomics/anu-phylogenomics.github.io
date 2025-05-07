@@ -8,7 +8,7 @@ categories:
   - news
 ---
 
-Welcome [Hashara Kumarasinghe](/people/hashara-kumarasinghe/)! 
+Welcome [Hashara Kumarasinghe](/people/kumarasinghe/)! 
 Hashara just joined our group as a PhD student. She will work on machine learning
 and cloud computing for phylogenomics.
 
