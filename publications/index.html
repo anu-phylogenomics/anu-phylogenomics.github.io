@@ -24,7 +24,7 @@ title_heading: true
     {% endif %}
     <hr style="border: 0.5px solid;">
   
-  	<ol>
+  	<ol reversed>
     {% assign this_year = "" %}
     {% for pub in pub_group.items %}
 	  {% if pub.issued[0].year != this_year and pub_group.name != "report" %}
