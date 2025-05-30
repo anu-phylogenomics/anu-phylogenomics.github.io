@@ -3,6 +3,7 @@ layout: personnel
 title: Minh Bui
 pubname: Bui Quang Minh
 show-publication: true
+max-publication: 5
 position: Lab Leader
 current: true
 period: since 2019
