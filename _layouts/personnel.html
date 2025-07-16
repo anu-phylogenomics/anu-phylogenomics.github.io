@@ -36,7 +36,11 @@ layout: default
 			  {% endfor %}
 			  {% if has-author %}
 				{% if count == 0 %}
+					{% if max-publication %}
 					<h4>Selected Publications</h4>
+					{% else %}
+					<h4>Publications</h4>
+					{% endif %}
 					<ol>
 				{% endif %}
 			    {% if pub.citations %}
@@ -47,7 +51,7 @@ layout: default
 				</li>
 				{% assign count = count | plus: 1 %}
 			  {% endif %}
-			  {% if count == 5 %}
+			  {% if count == page.max-publication %}
 			    {% break %}
 			  {% endif %}
 			{% endfor %}
