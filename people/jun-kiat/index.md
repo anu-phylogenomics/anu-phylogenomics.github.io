@@ -4,7 +4,7 @@ title: Ng Jun Kiat
 pubname: Ng Jun Kiat
 show-publication: true
 position: Honours Student
-current: true
+current: false
 period: since 2021
 email: ng.junkiat (at) anu.edu.au
 image: junkiat.jpg
