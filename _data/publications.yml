@@ -216,53 +216,6 @@ references:
   URL: https://doi.org/10.1101/2024.10.28.620561
   DOI: 10.1101/2024.10.28.620561
   
-- id: nicola_sprta_2024
-  type: report
-  open-access: true
-  author:
-  - family: De Maio
-    given: Nicola
-  - family: Ly-Trong
-    given: Nhan
-  - family: Minh
-    given: Bui Quang
-  - family: Goldman
-    given: Nick
-  issued:
-  - year: 2024
-    month: 10
-  accessed:
-  - year: 2024
-    month: 10
-    day: 30
-  title: 'This is SPRTA: assessing phylogenetic confidence at pandemic scales'
-  container-title: bioRxiv
-  publisher: Evolutionary Biology
-  genre: preprint
-  abstract: 'Phylogenetics plays a central role in evolutionary biology and
-    genomic epidemiology. Assessing phylogenetic confidence and reliability
-    is therefore crucial and methods to do this, such as Felsenstein’s
-    bootstrap, are among the most used in modern science. However, methods
-    based on Felsenstein’s bootstrap suffer from excessive computational
-    demand, and are unsuitable for large datasets. Furthermore, most of
-    these methods emerge from a cladistic framework which makes their
-    results hard to interpret in the context of genomic epidemiology.
-    We propose SPRTA (SPR-based Tree Assessment), an efficient and
-    interpretable approach to assess confidence in phylogenetic trees.
-    SPRTA shifts the paradigm of phylogenetic support measurement from
-    evaluating the confidence in clades (groupings of taxa) to genome
-    evolution histories, for example assessing if a lineage evolved from
-    another considered lineage or not. This focus on evolutionary histories
-    is particularly valuable in genomic epidemiology, where typically the
-    evolutionary and transmission history of a pathogen are of interest,
-    not clade content. We illustrate the use of SPRTA by investigating a
-    global SARS-CoV-2 phylogenetic tree relating > 2M genomes, highlighting
-    plausible alternative evolutionary origins of many SARS-CoV-2 variants.
-    We have implemented SPRTA within the free and open source maximum
-    likelihood phylogenetic software MAPLE, available from
-    https://github.com/NicolaDM/MAPLE.'
-  URL: https://doi.org/10.1101/2024.10.21.619398
-  DOI: 10.1101/2024.10.21.619398
 
 - id: nicola_rate_2024
   type: report
@@ -314,7 +267,59 @@ references:
    up to February 2023.
   URL: https://doi.org/10.1101/2024.07.12.603240
   DOI: 10.1101/2024.07.12.603240
-  
+
+- abstract: Phylogenetics has a central role in evolutionary biology and
+    genomic epidemiology1. Assessing phylogenetic confidence and
+    reliability is therefore crucial and the methods that do this, such
+    as those derived from Felsenstein's bootstrap2, are among the most
+    widely used in modern science. However, these methods require
+    enormous computational capacity, and are unsuitable for large
+    datasets. Furthermore, most of these methods emerge from a focus on
+    the membership of clades (groupings of taxa), which makes their
+    results difficult to interpret in the context of genomic
+    epidemiology. Here we propose subtree pruning and regrafting-based
+    tree assessment (SPRTA), an efficient and interpretable approach to
+    assess confidence in phylogenetic trees. SPRTA shifts the paradigm
+    of phylogenetic support measurement from evaluating the confidence
+    in clades to evolution histories and phylogenetic placement---for
+    example, assessing whether a lineage evolved from another considered
+    lineage, which is particularly valuable in genomic epidemiology. We
+    use SPRTA to investigate a global public SARS-CoV-2 phylogenetic
+    tree relating more than two million genomes, highlighting plausible
+    alternative evolutionary origins of many SARS-CoV-2 variants,
+    assessing reliability in the Pango outbreak lineage classification
+    system3, and demonstrating the effect of phylogenetic uncertainty on
+    inferred mutation rates. Our results show that SPRTA enables
+    pandemic-scale and detailed probabilistic assessment of transmission
+    and mutational histories. Our method introduces a new approach to
+    assessing phylogenetic confidence, enhancing the interpretability of
+    pandemic-scale phylogenetic analyses and improving our ability to
+    prepare for and respond to future pandemics.
+  accessed: 2025-11-05
+  author:
+  - family: De Maio
+    given: Nicola
+  - family: Ly-Trong
+    given: Nhan
+  - family: Martin
+    given: Samuel
+  - family: Minh
+    given: Bui Quang
+  - family: Goldman
+    given: Nick
+  container-title: Nature
+  doi: 10.1038/s41586-025-09567-x
+  id: de_maio_assessing_2025
+  issn: 1476-4687
+  issued: 2025-11
+  keyword: Classification and taxonomy, Molecular evolution,
+    Phylogenetics, Phylogeny, Statistical methods
+  note: "Publisher: Nature Publishing Group"
+  page: 1-7
+  title: Assessing phylogenetic confidence at pandemic scales
+  type: article-journal
+  url: "https://www.nature.com/articles/s41586-025-09567-x"
+
 - id: roger_robustly_rooted_tree_2024
   type: article-journal
   open-access: true
