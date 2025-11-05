@@ -311,11 +311,14 @@ references:
   doi: 10.1038/s41586-025-09567-x
   id: de_maio_assessing_2025
   issn: 1476-4687
-  issued: 2025-11
+  issued:
+  - year: 2025
+    month: 11
+    day: 5
   keyword: Classification and taxonomy, Molecular evolution,
     Phylogenetics, Phylogeny, Statistical methods
   note: "Publisher: Nature Publishing Group"
-  page: 1-7
+  page:
   title: Assessing phylogenetic confidence at pandemic scales
   type: article-journal
   url: "https://www.nature.com/articles/s41586-025-09567-x"
@@ -355,8 +358,8 @@ references:
     day: 12
   title: 'A robustly rooted tree of eukaryotes reveals their excavate ancestry'
   container-title: Nature
-  page:
-  volume:
+  page: 974–981
+  volume: 640
   abstract: The eukaryote Tree of Life (eToL) depicts the relationships among
     all eukaryotic organisms; its root represents the last eukaryotic common
     ancestor (LECA) from which all extant complex lifeforms are descended.
