@@ -5,6 +5,8 @@
 {% endif %}
 {% if pub.DOI %}
   <a href="https://doi.org/{{pub.DOI}}">
+{% elsif pub.doi %}
+  <a href="https://doi.org/{{pub.doi}}">
 {% else %}
   <a href="{{pub.URL}}">
 {% endif %}
