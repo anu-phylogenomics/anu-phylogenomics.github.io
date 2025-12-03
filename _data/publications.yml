@@ -2989,7 +2989,26 @@ references:
     for an urgent need for new efficient methods. To fill this gap, I developed several
     new phylogenetic methods tailored for large-scale genomic data....
   URL: https://hdl.handle.net/1885/733724780
-  
+
+- id: dong_thesis_2024
+  type: thesis
+  open-access: true
+  author:
+  - family: Dong
+    given: Yanghe
+  issued:
+  - year: 2024
+    month: 11
+  accessed:
+  - year: 2025
+    month: 8
+    day: 21
+  title: 'Phylogenetic Model Selection via Machine Learning'
+  container-title: Master Theses
+  abstract: "Phylogenetic inference, which reconstructs evolutionary trees from DNA or amino acid sequences, is crucial for understanding the evolutionary histories of species on Earth. Model selection is a fundamental step in this process, determining the best-fit model for the data. However, classic maximum likelihood-based methods for model selection are computationally intensive. This study introduces a machine learning-based framework for amino acid model selection, consisting of three components: protFinder for selecting the best-fit substitution model, RHASFinder for identifying the appropriate rate heterogeneity model, and protFFinder for determining the use of empirical pre-estimated frequencies. Our framework is an order of magnitude faster than the widely used ModelFinder, while maintaining comparable accuracy."
+  DOI: 10.25911/G27V-Q356
+  URL: https://hdl.handle.net/1885/733721968
+
 - id: zhuang_thesis_2023
   type: thesis
   open-access: true
@@ -3015,6 +3034,7 @@ references:
     novel phylogentic reconstruction framework that uses neural networks (NNs) for reconstructing
     quartet (4-species) trees. Through comparative analysis, QuartetNet is shown
     to either match or surpass the performance of stat-of-the-art domain method.
+  DOI: 10.25911/7N0A-G389
   URL: https://hdl.handle.net/1885/733713108
   
 - id: bui_thesis_2008
