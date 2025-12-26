@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minh awarded Australia’s top 250 researchers in 2026.
+title: Minh awarded Australia’s top 250 researchers in 2026
 author: Admin
 tags:
   - media
