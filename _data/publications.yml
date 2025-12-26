@@ -1,6 +1,54 @@
 ---
-citation_update: 3 Sep 2024
+citation_update: 26 Dec 2025
 references:
+
+- abstract: "Phylogenetic inference is fundamental to modern biology,
+    with applications spanning evolutionary biology, epidemiology, and
+    comparative genomics. While maximum likelihood and Bayesian methods
+    remain the gold standard due to their statistical rigor, they rely
+    on simplifying evolutionary assumptions and are computationally
+    intensive. Existing machine learning approaches offer speed
+    advantages, but face several limitations: exclusive reliance on
+    simulated training data, inadequate handling of gaps, focus
+    primarily on topology rather than complete tree reconstruction, and
+    sensitivity to input sequence order. Here, we introduce IQ-NET
+    (Intelligent Quartet NETwork), a machine learning framework that
+    addresses these limitations through training exclusively on real
+    datasets, simultaneous inference of topology and branch lengths from
+    gapped alignments without substitution model assumptions, and
+    robustness to the order of input sequences. IQ-NET outperforms
+    existing machine learning methods and achieves both higher accuracy
+    and a 24-fold speedup over the IQ-TREE software. We also demonstrate
+    IQ-NET's utility in species tree reconstruction by integrating it
+    with ASTRAL."
+  type: report
+  accessed: 2025-12-26
+  author:
+  - family: Yang
+    given: Chen
+  - family: Zhuang
+    given: Zixin
+  - family: Demotte
+    given: Piyumal
+  - family: Dang
+    given: Cuong Cao
+  - family: Vinh
+    given: Le Sy
+  - family: Minh
+    given: Bui Quang
+  - family: Ly-Trong
+    given: Nhan
+  doi: 10.32942/X2ND3S
+  id: yang_iq-net_2025
+  issued:
+  - year: 2025
+    month: 11
+  container-title: ecoevorxiv
+  publisher: Artificial Intelligence and Robotics
+  title: "IQ-NET: A Deep Learning Approach for Fast and Accurate
+    Phylogenetic Inference from Real Alignments"
+  title-short: IQ-NET
+  url: "https://ecoevorxiv.org/repository/view/10906/"
 
 - id: piqtree_rob_2025
   type: report
