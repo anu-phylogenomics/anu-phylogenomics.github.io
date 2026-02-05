@@ -116,42 +116,6 @@ references:
   URL: https://doi.org/10.32942/X2CD2X
   DOI: 10.32942/X2CD2X
 
-- id: naser-khdour_influence_2025
-  type: report
-  open-access: true
-  author:
-  - family: Naser-Khdour
-    given: Suha
-  - family: Minh
-    given: Bui Quang
-  - family: Lanfear
-    given: Robert
-  issued:
-  - year: 2025
-    month: 5
-    day: 19
-  accessed:
-  - year: 2025
-    month: 5
-    day: 19
-  title: 'The Influence of Model Violation on Phylogenetic Inference: A Simulation Study'
-  title-short: The Influence of Model Violation on Phylogenetic Inference
-  container-title: bioRxiv
-  publisher: Evolutionary Biology
-  genre: preprint
-  abstract: A bstractPhylogenetic inference typically assumes that the data has evolved
-    under Stationary, Reversible and Homogeneous (SRH) conditions. Many empirical
-    and simulation studies have shown that assuming SRH conditions can lead to significant
-    errors in phylogenetic inference when the data violates these assumptions. Yet,
-    many simulation studies focused on extreme non-SRH conditions that represent worst-case
-    scenarios and not the average empirical dataset. In this study, we simulate datasets
-    under various degrees of non-SRH conditions using empirically derived parameters
-    to mimic real data and examine the effects of incorrectly assuming SRH conditions
-    on inferring phylogenies. Our results show that maximum likelihood inference is
-    generally quite robust to a wide range of SRH model violations but is inaccurate
-    under extreme convergent evolution.
-  URL: http://biorxiv.org/lookup/doi/10.1101/2021.09.22.461455
-  DOI: 10.1101/2021.09.22.461455
 
 - id: iqtree3_thomas_2025
   type: report
@@ -316,7 +280,43 @@ references:
   URL: https://doi.org/10.1101/2024.07.12.603240
   DOI: 10.1101/2024.07.12.603240
 
-- abstract: Phylogenetics has a central role in evolutionary biology and
+- id: naser-khdour_influence_2026
+  type: article-journal
+  open-access: true
+  author:
+  - family: Naser-Khdour
+    given: Suha
+  - family: Minh
+    given: Bui Quang
+  - family: Lanfear
+    given: Robert
+  issued:
+  - year: 2026
+    month: 2
+    day: 5
+  accessed:
+  - year: 2026
+    month: 2
+    day: 5
+  title: 'Phylogenetic Accuracy Under Non-Stationary and Non-Homogeneous Conditions: A Simulation Study'
+  title-short: The Influence of Model Violation on Phylogenetic Inference
+  container-title: Systematic Biology
+  abstract: Phylogenetic inference typically assumes that the data has evolved
+    under Stationary, Reversible and Homogeneous (SRH) conditions. Many empirical
+    and simulation studies have shown that assuming SRH conditions can lead to significant
+    errors in phylogenetic inference when the data violates these assumptions. Yet,
+    many simulation studies focused on extreme non-SRH conditions that represent worst-case
+    scenarios and not the average empirical dataset. In this study, we simulate datasets
+    under various degrees of non-SRH conditions using empirically derived parameters
+    to mimic real data and examine the effects of incorrectly assuming SRH conditions
+    on inferring phylogenies. Our results show that maximum likelihood inference is
+    generally quite robust to a wide range of SRH model violations but is inaccurate
+    under extreme convergent evolution.
+  URL: https://doi.org/10.1093/sysbio/syag010
+  DOI: 10.1093/sysbio/syag010
+  
+- id: de_maio_assessing_2025
+  abstract: Phylogenetics has a central role in evolutionary biology and
     genomic epidemiology1. Assessing phylogenetic confidence and
     reliability is therefore crucial and the methods that do this, such
     as those derived from Felsenstein's bootstrap2, are among the most
@@ -357,7 +357,6 @@ references:
     given: Nick
   container-title: Nature
   doi: 10.1038/s41586-025-09567-x
-  id: de_maio_assessing_2025
   issn: 1476-4687
   issued:
   - year: 2025
