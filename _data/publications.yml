@@ -229,14 +229,16 @@ references:
   DOI: 10.1101/2024.10.28.620561
   
 
-- id: nicola_rate_2024
-  type: report
+- id: nicola_rate_2026
+  type: article-journal
   open-access: true
   author:
   - family: De Maio
     given: Nicola
   - family: Willemsen
     given: Myrthe
+  - family: Martin
+    given: Samuel
   - family: Guo
     given: Zihao
   - family: Saha
@@ -252,16 +254,13 @@ references:
   - family: Goldman
     given: Nick
   issued:
-  - year: 2024
-    month: 7
+  - year: 2026
+    month: 2
   accessed:
-  - year: 2024
-    month: 9
-    day: 3
+  - year: 2026
+    month: 2
   title: 'Rate variation and recurrent sequence errors in pandemic-scale phylogenetics'
-  container-title: bioRxiv
-  publisher: Evolutionary Biology
-  genre: preprint
+  container-title: Nature Methods
   abstract: Phylogenetic analyses of genome sequences from infectious pathogens reveal
    essential information regarding their evolution and transmission, as seen
    during the COVID-19 pandemic.
@@ -277,8 +276,8 @@ references:
    alignment and phylogenetic tree of > 2 million SARS-CoV-2 genomes
    encapsulating the evolutionary history and global spread of the virus
    up to February 2023.
-  URL: https://doi.org/10.1101/2024.07.12.603240
-  DOI: 10.1101/2024.07.12.603240
+  URL: https://www.nature.com/articles/s41592-025-02932-8
+  DOI: 10.1038/s41592-025-02932-8
 
 - id: naser-khdour_influence_2026
   type: article-journal
