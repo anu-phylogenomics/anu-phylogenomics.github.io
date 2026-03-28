@@ -49,41 +49,6 @@ references:
     Phylogenetic Inference from Real Alignments"
   title-short: IQ-NET
   url: "https://ecoevorxiv.org/repository/view/10906/"
-
-- id: piqtree_rob_2025
-  type: report
-  open-access: true
-  author:
-  - family: McArthur
-    given: Robert Neil
-  - family: Wong
-    given: Thomas K F
-  - family: Lang
-    given: Yapeng
-  - family: Morris
-    given: Richard Andrew
-  - family: Caley
-    given: Katherine
-  - family: Mallawaarachchi
-    given: Vijini
-  - family: Minh
-    given: Bui Quang
-  - family: Huttley
-    given: Gavin A
-  issued:
-  - year: 2025
-    month: 07
-  accessed:
-  - year: 2025
-    month: 07
-    day: 17
-  title: 'piqtree: A Python Package for Seamless Phylogenetic Inference with IQ-TREE'
-  container-title: biorxiv
-  publisher: Evolutionary Biology
-  genre: preprint
-  abstract: 'piqtree is an easy to use, open-source Python package that directly exposes IQ-TREEs phylogenetic inference engine. It offers Python functions for performing many of IQ-TREEs capabilities including phylogenetic reconstruction, ultrafast bootstrapping, branch length optimisation, ModelFinder, rapid neighbour-joining, and more. By exposing IQ-TREEs algorithms within Python, piqtree greatly simplifies the development of new phylogenetic workflows through seamless interoperability with other Python libraries and tools mediated by the cogent3 package. It also enables users to perform interactive analyses with IQ-TREE through, for instance, Jupyter notebooks. We present the key features available in the piqtree library and a small case study that showcases its interoperability. The piqtree library can be installed with "pip install piqtree", with the documentation available at https://piqtree.readthedocs.io and source at https://github.com/iqtree/piqtree.'
-  URL: https://doi.org/10.1101/2025.07.13.664626
-  DOI: 10.1101/2025.07.13.664626
   
 - id: iq2mc_piyumal_2025
   type: report
@@ -229,6 +194,41 @@ references:
   DOI: 10.1101/2024.10.28.620561
   
 
+- id: piqtree_rob_2025
+  type: article-journal
+  open-access: true
+  author:
+  - family: McArthur
+    given: Robert Neil
+  - family: Wong
+    given: Thomas K F
+  - family: Lang
+    given: Yapeng
+  - family: Morris
+    given: Richard Andrew
+  - family: Caley
+    given: Katherine
+  - family: Mallawaarachchi
+    given: Vijini
+  - family: Minh
+    given: Bui Quang
+  - family: Huttley
+    given: Gavin A
+  issued:
+  - year: 2026
+    month: 03
+  accessed:
+  - year: 2026
+    month: 03
+    day: 17
+  page: msag061
+  volume: 43
+  title: 'piqtree: A Python Package for Seamless Phylogenetic Inference with IQ-TREE'
+  container-title: Molecular Biology and Evolution
+  abstract: 'piqtree is an easy to use, open-source Python package that directly exposes IQ-TREEs phylogenetic inference engine. It offers Python functions for performing many of IQ-TREEs capabilities including phylogenetic reconstruction, ultrafast bootstrapping, branch length optimisation, ModelFinder, rapid neighbour-joining, and more. By exposing IQ-TREEs algorithms within Python, piqtree greatly simplifies the development of new phylogenetic workflows through seamless interoperability with other Python libraries and tools mediated by the cogent3 package. It also enables users to perform interactive analyses with IQ-TREE through, for instance, Jupyter notebooks. We present the key features available in the piqtree library and a small case study that showcases its interoperability. The piqtree library can be installed with "pip install piqtree", with the documentation available at https://piqtree.readthedocs.io and source at https://github.com/iqtree/piqtree.'
+  URL: https://doi.org/10.1093/molbev/msag061
+  DOI: 10.1093/molbev/msag061
+
 - id: nicola_rate_2026
   type: article-journal
   open-access: true
@@ -259,6 +259,8 @@ references:
   accessed:
   - year: 2026
     month: 2
+  page: 565–573
+  volume: 23
   title: 'Rate variation and recurrent sequence errors in pandemic-scale phylogenetics'
   container-title: Nature Methods
   abstract: Phylogenetic analyses of genome sequences from infectious pathogens reveal
@@ -297,6 +299,8 @@ references:
   - year: 2026
     month: 2
     day: 5
+  page: syag010
+  volume:
   title: 'Phylogenetic Accuracy Under Non-Stationary and Non-Homogeneous Conditions: A Simulation Study'
   title-short: The Influence of Model Violation on Phylogenetic Inference
   container-title: Systematic Biology
