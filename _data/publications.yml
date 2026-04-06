@@ -2,6 +2,53 @@
 citation_update: 26 Dec 2025
 references:
 
+- abstract: Abstract Partitioned and mixture models are widely employed
+    in Maximum Likelihood phylogenetic analyses of large genomic
+    datasets. Comparing the fit of the two types of models has been
+    challenging, because standard information-theoretic approaches
+    cannot be applied. Mixture models are increasingly popular for the
+    analysis of amino acid datasets and can lead to different
+    conclusions compared to partitioned models. This raises an important
+    question -- which type of model tends to perform better? Susko et
+    al. (2026) recently introduced the marginal Akaike information
+    criterion (mAIC), which allows mixture models and partitioned models
+    to be directly compared for the first time. Here, we use the mAIC
+    and a range of other approaches to compare the fit of mixture and
+    partitioned models across a diverse set of empirical datasets. We
+    show that mixture models are universally favoured on amino acid
+    datasets. This has important implications for interpreting empirical
+    analyses and suggests that continued development of mixture models
+    is an important avenue for future research.
+  type: report
+  accessed: 2026-04-05
+  author:
+  - family: Ren
+    given: Huaiyan
+  - family: Jiang
+    given: Changsen
+  - family: Wong
+    given: Thomas K F
+  - family: Shao
+    given: Yutong
+  - family: Susko
+    given: Edward
+  - family: Minh
+    given: Bui Quang
+  - family: Lanfear
+    given: Robert
+  doi: 10.64898/2026.03.16.712229
+  id: ren_new_2026
+  issued:
+  - year: 2026
+    month: 03
+  container-title: bioRxiv
+  publisher: Evolutionary Biology
+  title: A New Information Theoretic Approach Shows that Mixture Models
+    Outperform Partitioned Models for Phylogenetic Analyses of Amino
+    Acid Data
+  url: "http://biorxiv.org/lookup/doi/10.64898/2026.03.16.712229"
+
+
 - abstract: "Phylogenetic inference is fundamental to modern biology,
     with applications spanning evolutionary biology, epidemiology, and
     comparative genomics. While maximum likelihood and Bayesian methods
