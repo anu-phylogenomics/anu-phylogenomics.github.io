@@ -2,6 +2,53 @@
 citation_update: 26 Dec 2025
 references:
 
+- abstract: Abstract Partitioned and mixture models are widely employed
+    in Maximum Likelihood phylogenetic analyses of large genomic
+    datasets. Comparing the fit of the two types of models has been
+    challenging, because standard information-theoretic approaches
+    cannot be applied. Mixture models are increasingly popular for the
+    analysis of amino acid datasets and can lead to different
+    conclusions compared to partitioned models. This raises an important
+    question -- which type of model tends to perform better? Susko et
+    al. (2026) recently introduced the marginal Akaike information
+    criterion (mAIC), which allows mixture models and partitioned models
+    to be directly compared for the first time. Here, we use the mAIC
+    and a range of other approaches to compare the fit of mixture and
+    partitioned models across a diverse set of empirical datasets. We
+    show that mixture models are universally favoured on amino acid
+    datasets. This has important implications for interpreting empirical
+    analyses and suggests that continued development of mixture models
+    is an important avenue for future research.
+  type: report
+  accessed: 2026-04-05
+  author:
+  - family: Ren
+    given: Huaiyan
+  - family: Jiang
+    given: Changsen
+  - family: Wong
+    given: Thomas K F
+  - family: Shao
+    given: Yutong
+  - family: Susko
+    given: Edward
+  - family: Minh
+    given: Bui Quang
+  - family: Lanfear
+    given: Robert
+  doi: 10.64898/2026.03.16.712229
+  id: ren_new_2026
+  issued:
+  - year: 2026
+    month: 03
+  container-title: bioRxiv
+  publisher: Evolutionary Biology
+  title: A New Information Theoretic Approach Shows that Mixture Models
+    Outperform Partitioned Models for Phylogenetic Analyses of Amino
+    Acid Data
+  url: "http://biorxiv.org/lookup/doi/10.64898/2026.03.16.712229"
+
+
 - abstract: "Phylogenetic inference is fundamental to modern biology,
     with applications spanning evolutionary biology, epidemiology, and
     comparative genomics. While maximum likelihood and Bayesian methods
@@ -43,47 +90,12 @@ references:
   issued:
   - year: 2025
     month: 11
-  container-title: ecoevorxiv
+  container-title: EcoEvoRxiv
   publisher: Artificial Intelligence and Robotics
   title: "IQ-NET: A Deep Learning Approach for Fast and Accurate
     Phylogenetic Inference from Real Alignments"
   title-short: IQ-NET
   url: "https://ecoevorxiv.org/repository/view/10906/"
-
-- id: piqtree_rob_2025
-  type: report
-  open-access: true
-  author:
-  - family: McArthur
-    given: Robert Neil
-  - family: Wong
-    given: Thomas K F
-  - family: Lang
-    given: Yapeng
-  - family: Morris
-    given: Richard Andrew
-  - family: Caley
-    given: Katherine
-  - family: Mallawaarachchi
-    given: Vijini
-  - family: Minh
-    given: Bui Quang
-  - family: Huttley
-    given: Gavin A
-  issued:
-  - year: 2025
-    month: 07
-  accessed:
-  - year: 2025
-    month: 07
-    day: 17
-  title: 'piqtree: A Python Package for Seamless Phylogenetic Inference with IQ-TREE'
-  container-title: biorxiv
-  publisher: Evolutionary Biology
-  genre: preprint
-  abstract: 'piqtree is an easy to use, open-source Python package that directly exposes IQ-TREEs phylogenetic inference engine. It offers Python functions for performing many of IQ-TREEs capabilities including phylogenetic reconstruction, ultrafast bootstrapping, branch length optimisation, ModelFinder, rapid neighbour-joining, and more. By exposing IQ-TREEs algorithms within Python, piqtree greatly simplifies the development of new phylogenetic workflows through seamless interoperability with other Python libraries and tools mediated by the cogent3 package. It also enables users to perform interactive analyses with IQ-TREE through, for instance, Jupyter notebooks. We present the key features available in the piqtree library and a small case study that showcases its interoperability. The piqtree library can be installed with "pip install piqtree", with the documentation available at https://piqtree.readthedocs.io and source at https://github.com/iqtree/piqtree.'
-  URL: https://doi.org/10.1101/2025.07.13.664626
-  DOI: 10.1101/2025.07.13.664626
   
 - id: iq2mc_piyumal_2025
   type: report
@@ -109,7 +121,7 @@ references:
     month: 05
     day: 07
   title: 'IQ2MC: A New Framework to Infer Phylogenetic Time Trees Using IQ-TREE 3 and MCMCTree with Mixture Models'
-  container-title: ecoevorxiv
+  container-title: EcoEvoRxiv
   publisher: Evolutionary Biology
   genre: preprint
   abstract: 'IQ-TREE and MCMCTree are two widely used phylogenetic tools to infer phylogenetic trees and estimate divergence times, respectively. As MCMCTree performs fast approximate Markov Chain Monte Carlo sampling to obtain the times along a fixed tree topology, it would be natural to use IQ-TREE to obtain the tree. However, it is currently not possible to integrate these tools seamlessly, as MCMCTree requires pre-calculation of the gradients and Hessian for fast approximate calculation of the likelihood, which is unavailable in IQ-TREE. Furthermore, MCMCTree only implements a small subset of substitution models; and complex models such as the mixture models are not available. This is an important limitation because complex substitution models are required for reliable estimates of divergence times in deep phylogenies. Here, we introduce a new pipeline IQ2MC, which facilitates the integration of IQ-TREE 3 and MCMCTree, substantially speeds up the pre-calculation steps, and allows the use of a wide range of IQ-TREE’s complex models in divergence time inference. IQ2MC provides an updated version IQ-TREE 3.0.1 to calculate the gradients and Hessian at the maximum likelihood branch lengths, and then MCMCTree is used for MCMC sampling of divergence times. IQ2MC also provides several advanced partition models and mixture models not available in the current MCMCTree workflow. We finally show the applications of IQ2MC on simulated and four empirical datasets of placental mammals, plants, eukaryotes/prokaryotes, and metazoan. A tutorial to use IQ2MC is available at https://iqtree.github.io/doc/Dating.'
@@ -156,7 +168,7 @@ references:
     month: 04
     day: 08
   title: 'IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models'
-  container-title: ecoevorxiv
+  container-title: EcoEvoRxiv
   publisher: Evolutionary Biology
   genre: preprint
   abstract: 'IQ-TREE (http://www.iqtree.org) is a widely used open-source software tool for efficiently inferring phylogenetic trees under maximum likelihood. Here, we present IQ-TREE version 3, the third major release of the software. IQ-TREE 3 significantly extends version 2 with new features, including mixture models as an alternative to partitioned models, gene and site concordance factors to quantify discordance between genomic regions, and a fully-featured sequence simulator. The IQ-TREE 3 source code is available at https://github.com/iqtree/iqtree3.'
@@ -229,6 +241,41 @@ references:
   DOI: 10.1101/2024.10.28.620561
   
 
+- id: piqtree_rob_2025
+  type: article-journal
+  open-access: true
+  author:
+  - family: McArthur
+    given: Robert Neil
+  - family: Wong
+    given: Thomas K F
+  - family: Lang
+    given: Yapeng
+  - family: Morris
+    given: Richard Andrew
+  - family: Caley
+    given: Katherine
+  - family: Mallawaarachchi
+    given: Vijini
+  - family: Minh
+    given: Bui Quang
+  - family: Huttley
+    given: Gavin A
+  issued:
+  - year: 2026
+    month: 03
+  accessed:
+  - year: 2026
+    month: 03
+    day: 17
+  page: msag061
+  volume: 43
+  title: 'piqtree: A Python Package for Seamless Phylogenetic Inference with IQ-TREE'
+  container-title: Molecular Biology and Evolution
+  abstract: 'piqtree is an easy to use, open-source Python package that directly exposes IQ-TREEs phylogenetic inference engine. It offers Python functions for performing many of IQ-TREEs capabilities including phylogenetic reconstruction, ultrafast bootstrapping, branch length optimisation, ModelFinder, rapid neighbour-joining, and more. By exposing IQ-TREEs algorithms within Python, piqtree greatly simplifies the development of new phylogenetic workflows through seamless interoperability with other Python libraries and tools mediated by the cogent3 package. It also enables users to perform interactive analyses with IQ-TREE through, for instance, Jupyter notebooks. We present the key features available in the piqtree library and a small case study that showcases its interoperability. The piqtree library can be installed with "pip install piqtree", with the documentation available at https://piqtree.readthedocs.io and source at https://github.com/iqtree/piqtree.'
+  URL: https://doi.org/10.1093/molbev/msag061
+  DOI: 10.1093/molbev/msag061
+
 - id: nicola_rate_2026
   type: article-journal
   open-access: true
@@ -259,6 +306,8 @@ references:
   accessed:
   - year: 2026
     month: 2
+  page: 565–573
+  volume: 23
   title: 'Rate variation and recurrent sequence errors in pandemic-scale phylogenetics'
   container-title: Nature Methods
   abstract: Phylogenetic analyses of genome sequences from infectious pathogens reveal
@@ -297,6 +346,8 @@ references:
   - year: 2026
     month: 2
     day: 5
+  page: syag010
+  volume:
   title: 'Phylogenetic Accuracy Under Non-Stationary and Non-Homogeneous Conditions: A Simulation Study'
   title-short: The Influence of Model Violation on Phylogenetic Inference
   container-title: Systematic Biology
