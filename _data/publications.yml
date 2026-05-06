@@ -2,6 +2,53 @@
 citation_update: 26 Dec 2025
 references:
 
+- abstract: "Models of genome evolution often account for different evolutionary
+    rates at different genome positions due to, e.g., varying selective pressures
+    or mutation rates. Recent evidence from millions of publicly shared SARS-CoV-2
+    genomes has revealed a more complex mutational landscape than can be modeled
+    with existing approaches. Here, mutation rates are in fact not only highly
+    position-specific, as currently modeled, but also nucleotide-specific; for
+    example, specific mutations can occur very often at certain determined genome
+    positions, while at the same positions other mutations might not be highly
+    recurrent. Here, we propose and investigate a general model of genome evolution
+    where each genome position is allowed to evolve under an independent,
+    non-normalized substitution rate matrix describing site-specific rates of all
+    mutation types (\"Site-Specific Matrix\" model, or SSM). We implement SSM in the
+    efficient pandemic-scale phylogenetic inference software CMAPLE. Large-scale
+    genomic epidemiological simulations suggest that, given enough data, SSM can
+    accurately infer position- and nucleotide-specific substitution rates for more
+    frequently observed nucleotides (typically the reference nucleotide), while
+    other rates require higher levels of divergence. Simulations also show that SSM
+    has a modest impact on the accuracy of phylogenetic tree estimation. We use SSM
+    to analyze the evolution of millions of SARS-CoV-2 genomes and observe
+    substantial mismatches between the substitution rates of classical rate
+    variation models and our SSM estimates. These results suggest that classical
+    models of rate variation are inadequate for modeling site-specific mutation
+    patterns and that SSM is a useful alternative for large-scale genome analyses."
+  type: report
+  accessed: 2026-05-06
+  author:
+  - family: Martin
+    given: Samuel
+  - family: Ly-Trong
+    given: Nhan
+  - family: Minh
+    given: Bui Quang
+  - family: Goldman
+    given: Nick
+  - family: De Maio
+    given: Nicola
+  doi: 10.64898/2026.04.30.721865
+  id: martin_ssm_2026
+  issued:
+  - year: 2026
+    month: 05
+  container-title: bioRxiv
+  publisher: Evolutionary Biology
+  title: "Modeling Site-Specific Mutation Patterns in Pandemic-Scale Phylogenetics"
+  url: "http://biorxiv.org/lookup/doi/10.64898/2026.04.30.721865"
+
+
 - abstract: Abstract Partitioned and mixture models are widely employed
     in Maximum Likelihood phylogenetic analyses of large genomic
     datasets. Comparing the fit of the two types of models has been
@@ -92,8 +139,7 @@ references:
     month: 11
   container-title: EcoEvoRxiv
   publisher: Artificial Intelligence and Robotics
-  title: "IQ-NET: A Deep Learning Approach for Fast and Accurate
-    Phylogenetic Inference from Real Alignments"
+  title: "IQ-NET: Fast and Accurate Quartet Phylogenetic Inference Using Deep Learning Trained on Empirical DNA Alignments"
   title-short: IQ-NET
   url: "https://ecoevorxiv.org/repository/view/10906/"
   
