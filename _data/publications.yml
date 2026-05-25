@@ -283,6 +283,7 @@ references:
     month: 05
     day: 05
   page: msag117
+  volume: 43
   title: 'IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models'
   container-title: Molecular Biology and Evolution
   abstract: 'IQ-TREE (https://iqtree.github.io/) is a widely used open-source software tool for efficiently inferring phylogenetic trees under maximum likelihood. Here, we present IQ-TREE version 3, the third major release of the software. IQ-TREE 3 significantly extends version 2 with new features, including mixture models as an alternative to partitioned models, gene and site concordance factors to quantify discordance between genomic regions, integration with phylogenomic divergence time estimation, and a fully-featured sequence simulator. The IQ-TREE 3 source code is available at https://github.com/iqtree/iqtree3.'
