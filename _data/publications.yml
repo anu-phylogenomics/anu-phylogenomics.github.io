@@ -2,6 +2,58 @@
 citation_update: 26 Dec 2025
 references:
 
+- abstract: "We evaluate whether tryptophan (W), widely thought to be
+    the last of the 20 canonical amino acids added to the genetic code,
+    was already present in the Last Universal Common Ancestor (LUCA). We
+    reconstruct the evolutionary history of tryptophanyl-tRNA synthetase
+    (WRS), the enzyme that attaches W to its tRNA, and the related
+    tyrosyl-tRNA synthetase (YRS). We identify and exclude sequences
+    derived from ancient recombination between archaeal and bacterial
+    YRSs. Diverse rooting methods, including a novel approach exploiting
+    time non-reversible evolution, all place the root between bacterial
+    and archaeal YRS rather than between YRS and WRS. This supports
+    post-LUCA WRS origination in Archaea, followed by its horizontal
+    transfer to Bacteria. However, ancestral sequence reconstruction
+    suggests that Archaea were depleted for W while Bacteria were not,
+    and enzymes essential for W biosynthesis emerged in Bacteria. This
+    suggests that W usage originated in Bacteria, with later WRS
+    emergence in Archaea allowing the archaeal genetic code to converge
+    with the bacterial code. The universality of the genetic code is
+    usually attributed to common descent from LUCA, but the final step
+    making the code universal was instead achieved by horizontal gene
+    transfer. This gives credence to similar mechanisms for earlier
+    steps in genetic code evolution.Competing Interest StatementThe
+    authors have declared no competing interest.National Aeronautics and
+    Space Administration, https://ror.org/027ka1`\\texttimes`{=latex}80,
+    80NSSC24K0384Chan Zuckerberg Initiative (United States),
+    EOSS4-0000000312U.S. National Science Foundation,
+    https://ror.org/021nxhr62, DEB-2333243Robert &amp; Taylor Peterson
+    Extraterrestrial Research Fund at the Arizona Astrobiology Center"
+  author:
+  - family: Wehbi
+    given: Sawsan
+  - family: Ly Trong
+    given: Nhan
+  - family: Wheeler
+    given: Andrew
+  - family: Minh
+    given: Bui Quang
+  - family: Lauretta
+    given: Dante
+  - family: Masel
+    given: Joanna
+  container-title: bioRxiv
+  doi: 10.64898/2026.05.28.728509
+  id: Wehbi2026.05.28.728509
+  issued:
+  - year: 2026
+    month: 06
+  publisher: Cold Spring Harbor Laboratory
+  title: Tryptophan became part of the universal genetic code post-LUCA
+  type: report
+  url: "https://www.biorxiv.org/content/early/2026/05/31/2026.05.28.728509"
+
+
 - abstract: "Models of genome evolution often account for different evolutionary
     rates at different genome positions due to, e.g., varying selective pressures
     or mutation rates. Recent evidence from millions of publicly shared SARS-CoV-2
