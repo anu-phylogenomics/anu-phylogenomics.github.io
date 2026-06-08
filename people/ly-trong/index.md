@@ -3,7 +3,7 @@ layout: personnel
 title: Nhan Ly-Trong
 pubname: Nhan Ly-Trong
 show-publication: true
-position: Research Associate
+position: Research Fellow
 current: true
 period: since 2024
 email: trong.ly (at) anu.edu.au

@@ -4,7 +4,7 @@ title: Yanghe Dong
 pubname: Yanghe Dong
 show-publication: true
 position: Master student
-current: true
+current: no
 period: since 2024
 email: yanghe.dong (at) anu.edu.au
 image: yanghe.jpg
