@@ -5,7 +5,7 @@ pubname: Zora Zhuang
 show-publication: true
 position: Honours student
 current: false
-period: since 2023
+period: 2023-2024
 email: zora.zhuang@anu.edu.au
 image: zora-zhuang.jpg
 image-small: zora-zhuang.jpg

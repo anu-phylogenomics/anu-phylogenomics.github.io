@@ -5,7 +5,7 @@ pubname: Seyed Ali Tabatabaee
 show-publication: yes
 position: Research Visitor
 current: false
-period: since 2025
+period: 2025
 email: SeyedAli.Tabatabaee@anu.edu.au
 image: "AliTaba.png"
 image-small: "AliTaba.png"

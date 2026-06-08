@@ -5,7 +5,7 @@ pubname: Rosalita Rosenberg
 show-publication: yes
 position: Honours student
 current: no
-period: since February 2025
+period: 2025
 email: u7469137@anu.edu.au
 image: "rosalita_rosenberg.png"
 image-small: "rosalita_rosenberg.png"
