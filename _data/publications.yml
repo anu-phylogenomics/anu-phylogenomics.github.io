@@ -2,6 +2,51 @@
 citation_update: 26 Dec 2025
 references:
 
+- abstract: "Phylogenetic analysis is essential to genomic epidemiology, for example
+    in tracing the origin and evolution of SARS-CoV-2 variants during the COVID-19
+    pandemic. We previously introduced CMAPLE, a single-threaded implementation of
+    the MAPLE algorithm designed for large-scale epidemiological genomic datasets.
+    CMAPLE can reconstruct phylogenetic trees from up to one million SARS-CoV-2
+    genomes. Here, we present CMAPLE 2, a multi-threaded version of CMAPLE with
+    parallel sample placement and subtree pruning and regrafting (SPR) search algorithms.
+    CMAPLE 2 also reduces memory consumption by compressing data structures using
+    multiple references along the tree instead of a single reference genome. It further
+    implements two advanced models of highly site- and nucleotide-specific mutation
+    patterns as observed in pandemic-scale genome data. Additionally, CMAPLE 2
+    parallelizes SPR-based Tree Assessment (SPRTA), an efficient and interpretable
+    approach for assessing phylogenetic tree uncertainty, and supports ancestral state
+    and mutation inference via mutation-annotated tree (MAT) reconstruction. When
+    inferring a phylogeny from 500,000 SARS-CoV-2 genomes using 48 CPU cores, CMAPLE
+    2 reduces runtime from 5 days (with sequential CMAPLE) to 9 hours (a 13-fold
+    speedup) while decreasing peak RAM usage from 11.1 GB to 7.3 GB. CMAPLE 2 can
+    now reconstruct a tree of nearly four million SARS-CoV-2 genomes from scratch
+    within 12 days using 41 GB of RAM, a task that the sequential CMAPLE and MAPLE
+    cannot realistically complete. CMAPLE 2 is applicable to many pathogen genome
+    datasets and enhances our preparedness for future pandemics."
+  author:
+  - family: Ly-Trong
+    given: Nhan
+  - family: Martin
+    given: Samuel
+  - family: Goldman
+    given: Nick
+  - family: De Maio
+    given: Nicola
+  - family: Minh
+    given: Bui Quang
+  container-title: bioRxiv
+  doi: 10.64898/2026.06.15.732229
+  id: Ly-Trong2026.06.15.732229
+  issued:
+  - year: 2026
+    month: 06
+  publisher: Evolutionary Biology
+  title: "CMAPLE 2: Fast and Accurate Phylogenetic Inference for Millions of Pathogen
+    Genomes"
+  type: report
+  url: "https://www.biorxiv.org/content/early/2026/06/16/2026.06.15.732229"
+
+
 - abstract: "We evaluate whether tryptophan (W), widely thought to be
     the last of the 20 canonical amino acids added to the genetic code,
     was already present in the Last Universal Common Ancestor (LUCA). We
