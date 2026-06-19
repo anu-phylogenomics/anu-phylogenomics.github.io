@@ -2,6 +2,72 @@
 citation_update: 26 Dec 2025
 references:
 
+- abstract: "Site rate and profile mixture models capture the
+    heterogeneity of the amino acid substitution process across sites.
+    However, these models typically use a single matrix of amino acid
+    exchangeabilities and ignore potential heterogeneities of these
+    exchangeabilities across sites. Simply combining multiple
+    exchangeability matrices with rate and profile mixtures leads to a
+    combinatorial explosion of mixture components and a prohibitive
+    increase in free parameters. Here, we introduce GTRspmix, a novel
+    framework that incorporates multiple exchangeability matrices into
+    profile and site rate mixture models while effectively managing
+    model complexity. GTRspmix employs a clustering-based strategy that
+    groups profiles and assigns a distinct exchangeability matrix to
+    each profile cluster. Evaluations using both empirical and simulated
+    datasets demonstrate that GTRspmix fits empirical data significantly
+    better than conventional models, and that overparameterization does
+    not present a problem for sufficiently large alignments. Based on
+    these results, we estimated general-purpose empirical models
+    (SXXpfamCYY series available in IQ-TREE3) from the Pfam database.
+    These general-purpose models not only fit data much better, but they
+    also influence branch length and tree topology estimates,
+    effectively mitigating long-branch attraction artifacts. Because the
+    total number of rate matrices remains manageable, the computational
+    efficiency of the inference is identical to that of conventional
+    profile mixture models (e.g., LG+C60+G4). GTRspmix provides a more
+    realistic and flexible model of protein evolution, offering a robust
+    foundation for the inference of reliable phylogenetic
+    trees.Competing Interest StatementThe authors have declared no
+    competing interest.Natural Sciences and Engineering Research
+    Council, https://ror.org/01h531d29, RGPIN-2022-05430,
+    RGPIN-2025-04509Japan Society for the Promotion of Science,
+    https://ror.org/00hhkn466, 26KJ0177, Overseas Research
+    FellowshipsMoore-Simons Project Call on the Origin of the Eukaryotic
+    Cell, Simons Foundation Grant, 735923LPIU.S. National Science
+    Foundation, https://ror.org/021nxhr62, DEB-2333243National
+    Institutes of Health, https://ror.org/01cwqze88, R01GM096053,
+    R01GM132499"
+  author:
+  - family: Harada
+    given: Ryo
+  - family: Susko
+    given: Edward
+  - family: Wong
+    given: Thomas K. F.
+  - family: Banos
+    given: Hector
+  - family: Ly-Trong
+    given: Nhan
+  - family: Lanfear
+    given: Robert
+  - family: Theobald
+    given: Douglas L.
+  - family: Minh
+    given: Bui Quang
+  - family: Roger
+    given: Andrew J.
+  container-title: bioRxiv
+  doi: 10.64898/2026.06.18.729217
+  id: Harada2026.06.18.729217
+  issued: 2026
+  publisher: Cold Spring Harbor Laboratory
+  title: "GTRspmix: Capturing heterogeneity of exchangeabilities across
+    sites to improve protein phylogenetics"
+  title-short: GTRspmix
+  type: article-journal
+  url: "https://www.biorxiv.org/content/early/2026/06/18/2026.06.18.729217"
+
 - abstract: "We evaluate whether tryptophan (W), widely thought to be
     the last of the 20 canonical amino acids added to the genetic code,
     was already present in the Last Universal Common Ancestor (LUCA). We

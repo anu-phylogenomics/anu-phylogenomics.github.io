@@ -27,8 +27,13 @@ title_heading: true
   	<ol reversed>
     {% assign this_year = "" %}
     {% for pub in pub_group.items %}
-	  {% if pub.issued[0].year != this_year and pub_group.name != "report" %}
-		{% assign this_year = pub.issued[0].year %}
+      {% if pub.issued[0].year %}
+        {% assign next_year = pub.issued[0].year %}
+      {%else%}
+        {% assign next_year = pub.issued %}
+      {%endif%}
+	  {% if next_year != this_year and pub_group.name != "report" %}
+		{% assign this_year = next_year %}
 		<a name="{{this_year}}"></a>
 		<h4>{{this_year}}</h4>
       {% endif %}

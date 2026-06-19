@@ -55,7 +55,7 @@
       {{pub.genre}}
     {% endif %}
     {% if pub.volume %}{{pub.volume}}:{%endif%}{%if pub.page %}{{pub.page}}{%endif%}
-    ({{pub.issued[0].year}})
+    {% if pub.issued[0].year %}({{pub.issued[0].year}}){%else%}({{pub.issued}}){%endif%}
   </small>
   {% if pub.preprint-DOI %} 
     <a href="https://doi.org/{{pub.preprint-DOI}}" class="badge badge-success">Preprint</a>
