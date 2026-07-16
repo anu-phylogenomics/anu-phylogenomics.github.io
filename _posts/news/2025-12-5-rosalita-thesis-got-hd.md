@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rosalita's thesis got High Distinction
+title: Rosalita's thesis received Upper High Distinction and University Medal nomination
 author: Admin
 tags:
   - media

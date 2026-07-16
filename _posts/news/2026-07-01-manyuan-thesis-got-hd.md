@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Manyuan's thesis got High Distinction
+title: Manyuan's thesis received Upper High Distinction and University Medal nomination
 author: Admin
 tags:
   - media
