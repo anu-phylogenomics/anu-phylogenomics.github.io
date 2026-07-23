@@ -3273,6 +3273,49 @@ references:
   DOI: 10.1093/bioinformatics/bti594
   ISSN: 1367-4803, 1460-2059
   
+- id: zeng_thesis_2026
+  type: thesis
+  open-access: true
+  author:
+  - family: Zeng
+    given: Manyuan
+  issued:
+  - year: 2026
+  accessed:
+  - year: 2026
+    month: 7
+    day: 23
+  title: 'SimTeller: Improving the Realism of Simulated DNA Alignments and Machine-Learning
+    Detection for Simulated Alignments'
+  container-title: Master Theses
+  abstract: 'Phylogenetics infers evolutionary relationships from DNA or protein sequence
+    alignments. Simulated alignments are widely used in phylogenetics because they
+    provide known ground truth and large-scale reproducible data. However, original
+    simulation workflows often simplify the evolutionary process, reducing the realism
+    of simulated datasets and limiting the performance of downstream machine-learning
+    methods. This thesis addresses two interconnected research questions: how to
+    improve the realism of simulated DNA alignments, and whether more realistic
+    simulated datasets can improve machine-learning–based alignment classifiers.
+    The first part developed an improved simulation workflow by incorporating ancestral
+    sequence reconstruction (ASR) and mixture-model approach into the original simulation
+    pipeline. To support large-scale mixture-model simulation, this project constructed
+    the first large-scale database of mixture-model parameters and root sequences
+    for 30,773 empirical DNA alignments. The existing Seqsharp classifiers generally
+    failed to effectively classify alignments generated under the improved workflow,
+    suggesting a smaller gap between the improved simulated data and empirical alignments.
+    The second part investigated whether the improved simulated datasets could produce
+    better alignment classifiers. I trained SimTeller, a set of new alignment classifiers
+    using convolutional neural network (CNN) and gradient boosting tree (GBT) approaches.
+    Compared with Seqsharp, SimTeller demonstrated stronger robustness, practical
+    applicability, and generalisation ability across independent and cross-condition
+    testing datasets. These results further confirmed that the improved simulation
+    workflow from the first part may also benefit a broader range of phylogenetic
+    machine-learning applications. Overall, this thesis developed an improved simulation
+    workflow for DNA alignments and proposed SimTeller, a set of machine-learning–based
+    classifiers that may serve as useful tools for evaluating the realism of simulated
+    alignments.'
+  URL: https://hdl.handle.net/1885/733813491
+
 - id: ly_thesis_2024
   type: thesis
   open-access: true
