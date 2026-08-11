@@ -1,6 +1,63 @@
 ---
-citation_update: 26 Dec 2025
+citation_update: 12 Aug 2026
 references:
+
+- abstract: "Model selection is a fundamental step in phylogenetic
+    analysis that determines the best-fit model of sequence evolution
+    for a given multiple sequence alignment. Popular model selection
+    methods, such as ModelFinder, rely on statistical information
+    criteria, such as the Bayesian Information Criterion (BIC) or the
+    Akaike Information Criterion (AIC). However, these approaches are
+    computationally expensive and the use of information criteria has
+    been the subject of ongoing discussion. Recently, machine learning
+    has emerged as a promising approach for phylogenetic model selection
+    in both nucleotide and protein sequence analyses. ModelDetector is
+    currently the only machine learning-based method for amino acid
+    substitution model selection. However, because ModelDetector was
+    trained on simulated data, it does not perform well on real
+    datasets. Another limitation is that it does not support different
+    rate heterogeneity across sites (RHAS) models. To overcome these
+    limitations, we introduce ProtFinder, an efficient machine learning
+    framework for protein model selection that predicts amino acid
+    substitution models, RHAS models, and amino acid frequency models.
+    To enable ProtFinder to work with real datasets, we employed a
+    transfer learning strategy consisting of three stages: (1) initial
+    training on large-scale simulated data, (2) joint training on both
+    simulated and real data, and (3) final fine-tuning using real data
+    only. Experimental results show that ProtFinder outperformed
+    ModelDetector in amino acid substitution model selection. ProtFinder
+    achieved comparable accuracy to the maximum likelihood method
+    ModelFinder for substitution model selection on medium and large
+    MSAs. It performs slightly better than ModelFinder in RHAS model
+    selection and substantially outperforms it in amino acid frequency
+    model determination. Notably, ProtFinder is up to 1,400 times faster
+    than ModelFinder in terms of inference time, making it particularly
+    suitable for medium and large datasets.Competing Interest
+    StatementThe authors have declared no competing interest.Vietnam
+    National Foundation for Science and Technology Development,
+    102.05-2025.65 to N.H.T and L.S.VChan-Zuckerberg Initiative grant
+    for open-source software for science, EOSS4-0000000312 to B.Q.M"
+  author:
+  - family: Tinh
+    given: Nguyen Huy
+  - family: Dong
+    given: Yanghe
+  - family: Ly-Trong
+    given: Nhan
+  - family: Vinh
+    given: Le Sy
+  - family: Minh
+    given: Bui Quang
+  container-title: bioRxiv
+  doi: 10.64898/2026.08.04.742760
+  id: Tinh2026.08.04.742760
+  issued: 2026
+  publisher: Cold Spring Harbor Laboratory
+  title: "ProtFinder: An efficient machine learning framework for
+    protein model selection on real data"
+  title-short: ProtFinder
+  type: report
+  url: "https://www.biorxiv.org/content/early/2026/08/07/2026.08.04.742760"
 
 - abstract: "Site rate and profile mixture models capture the
     heterogeneity of the amino acid substitution process across sites.
