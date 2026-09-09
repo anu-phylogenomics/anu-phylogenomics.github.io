@@ -1,6 +1,56 @@
 ---
-citation_update: 12 Aug 2026
+citation_update: 9 Sep 2026
 references:
+
+- abstract: "Partition models are widely used in phylogenomic analyses
+    to account for heterogeneous evolutionary processes across different
+    regions or loci of a sequence alignment. How alignment regions are
+    grouped into partitions (the partitioning scheme) affects both the
+    degree of over- or under-parameterization and the accuracy of
+    downstream phylogenetic inferences. PartitionFinder is a widely
+    adopted framework for selecting an optimal partitioning scheme.
+    Using Akaike information criterion (AIC) and Bayesian information
+    criterion (BIC), PartitionFinder merges partitions with similar
+    evolutionary processes to avoid model overfitting. However, AIC and
+    BIC are based on conditional likelihoods that treat partition
+    assignments as fixed, whereas the recently introduced marginal AIC
+    (mAIC) averages site likelihoods over the models of all partitions,
+    providing a more appropriate criterion for inferring global
+    parameters such as tree topology and branch lengths (Susko et al.
+    2026). Here, we implement mAIC for partition models in IQ-TREE 3 and
+    integrate it into the PartitionFinder algorithms. Using a range of
+    simulated and empirical DNA and protein datasets, we show that
+    PartitionFinder-mAIC yields partitioning schemes with fewer
+    partitions than those selected by AIC or BIC, and additionally
+    improves phylogenetic inference at most key branches of the green
+    plant evolution. The new PartitionFinder-mAIC is available in
+    IQ-TREE version 3.1.4 and a tutorial for using it can be found here:
+    https://iqtree.github.io/doc/Advanced-Tutorial$\\#$choosing-the-right-partitioning-scheme.Competing
+    Interest StatementThe authors have declared no competing
+    interest.National Science Foundation, DEB-2333243"
+  author:
+  - family: Ren
+    given: Huaiyan
+  - family: Wong
+    given: Thomas K. F.
+  - family: Jiang
+    given: Changsen
+  - family: Susko
+    given: Edward
+  - family: Lanfear
+    given: Robert
+  - family: Minh
+    given: Bui Quang
+  container-title: bioRxiv
+  doi: 10.64898/2026.09.04.749328
+  id: Ren2026.09.04.749328
+  issued: 2026
+  publisher: Cold Spring Harbor Laboratory
+  title: "PartitionFinder-mAIC: Phylogenetic partitioning using marginal
+    akaike information criterion"
+  title-short: PartitionFinder-mAIC
+  type: report
+  url: "https://www.biorxiv.org/content/early/2026/09/08/2026.09.04.749328"
 
 - abstract: "Model selection is a fundamental step in phylogenetic
     analysis that determines the best-fit model of sequence evolution
