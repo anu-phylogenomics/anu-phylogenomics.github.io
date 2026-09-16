@@ -4,6 +4,14 @@
   description: Efficient tree reconstruction for phylogenomic data, ultrafast approximation for phylogenetic bootstrap, ultrafast model selection. IQ-TREE supports a wide range of evolutionary models and high performance computing.
   url: http://www.iqtree.org
   logo: /assets/images/iqtree-logo.svg
+- name: piqtree
+  title: Python package for IQ-TREE
+  description: A Python package that allows to access popular functionalities of IQ-TREE. piqtree helps Python users and developers to directly perform many IQ-TREE functions directly within Python, instead of externally calling its command line interface.
+  url: https://piqtree.readthedocs.io
+- name: CMAPLE
+  title: Efficient phylogenetic inference in the pandemic era
+  description: A highly optimized phylogenetic inference package designed for pathogen data, which includes standalone software and a C++ library.
+  url: https://github.com/iqtree/cmaple
 - name: MPBoot
   title: Maximum Parsimony Bootstrap
   description: An efficient software to reconstruct phylogenetic trees by maximum parsimony and ultrafast bootstrap.
@@ -12,8 +20,4 @@
   title: Scalable Neighbour-Joining for the genomic era
   description: Highly optimized and parallel implementations of Neighbour-Joining and several of its variants.
   url: https://github.com/iqtree/decenttree
-- name: CMAPLE
-  title: Efficient phylogenetic inference in the pandemic era
-  description: A highly optimized phylogenetic inference package designed for pathogen data, which includes standalone software and a C++ library.
-  url: https://github.com/iqtree/cmaple
 ...
