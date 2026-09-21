@@ -482,6 +482,7 @@ references:
     IQ-NET's utility in species tree reconstruction by integrating it
     with ASTRAL."
   type: article-journal
+  selected: true
   accessed: 2025-12-26
   author:
   - family: Yang
@@ -564,6 +565,7 @@ references:
 - id: piqtree_rob_2025
   type: article-journal
   open-access: true
+  selected: true  
   author:
   - family: McArthur
     given: Robert Neil
@@ -990,7 +992,7 @@ references:
 
 - id: wong_mast_2022
   type: article-journal
-  selected: true
+  selected: false
   author:
   - family: Wong
     given: Thomas K F
