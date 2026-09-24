@@ -3,9 +3,10 @@ layout: personnel
 title: Nhan Ly-Trong
 pubname: Nhan Ly-Trong
 show-publication: true
-position: Research Fellow
-current: true
-period: since 2024
+position: Research Fellow, working with Rob Lanfear
+current: false
+associate: true
+period: 2020-2024 (PhD student) and 2024-2026 (postdoc)
 email: trong.ly (at) anu.edu.au
 image: NhanTrongLy-small.jpg
 image-small: NhanTrongLy-small.jpg
