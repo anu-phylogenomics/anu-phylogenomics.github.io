@@ -513,6 +513,7 @@ references:
 - id: iqtree3_thomas_2025
   type: article-journal
   open-access: true
+  citations: 800
   author:
   - family: Wong
     given: Thomas K F
@@ -746,6 +747,7 @@ references:
 - id: roger_robustly_rooted_tree_2024
   type: article-journal
   open-access: true
+  citations: 101
   author:
   - family: Williamson
     given: Kelsey
@@ -1293,6 +1295,7 @@ references:
 - id: mo_updated_2023
   type: article-journal
   open-access: true
+  citations: 150
   author:
   - family: Mo
     given: Yu K
@@ -1368,6 +1371,7 @@ references:
 - id: ly-trong_alisim_2022
   type: article-journal
   open-access: true
+  citations: 130
   author:
   - family: Ly-Trong
     given: Nhan
@@ -1566,6 +1570,7 @@ references:
 - id: hodcroft_want_2021
   type: article-journal
   open-access: true
+  citations: 130
   photo: nature-591.png
   author:
   - family: Hodcroft
@@ -1606,6 +1611,7 @@ references:
 - id: quang_minh_qmaker_2021
   type: article-journal
   open-access: true
+  citations: 150
   photo: syst-biol-70-5.jpeg
   author:
   - family: Minh
@@ -1652,6 +1658,7 @@ references:
 - id: vanderpool_primate_2020
   type: article-journal
   open-access: true
+  citations: 130
   photo: plos-biol-2020-12.png
   author:
   - family: Vanderpool
@@ -1807,6 +1814,7 @@ references:
 - id: dombrowski_undinarchaeota_2020
   type: article-journal
   open-access: true
+  citations: 150
   photo: nature-comms.png
   author:
   - family: Dombrowski
@@ -1844,6 +1852,7 @@ references:
 - id: minh_new_2020
   type: article-journal
   open-access: true
+  citations: 700
   photo: mol-biol-evol-37-9.jpeg
   author:
   - family: Minh
@@ -1885,6 +1894,7 @@ references:
 - id: minh_iq-tree_2020
   type: article-journal
   open-access: true
+  citations: 20000
   photo: mol-biol-evol-37-5.jpeg
   author:
   - family: Minh
@@ -1931,6 +1941,7 @@ references:
 
 - id: crotty_ghost:_2020
   type: article-journal
+  citations: 250
   photo: syst-biol-69-2.jpeg
   author:
   - family: Crotty
@@ -1993,6 +2004,7 @@ references:
 - id: naser-khdour_prevalence_2019
   type: article-journal
   open-access: true
+  citations: 200
   f1000: 736640768
   photo: genome-biol-evol-11-12.jpeg
   author:
@@ -2163,6 +2175,7 @@ references:
 
 - id: hoang_mpboot:_2018
   type: article-journal
+  citations: 200
   open-access: true
   photo:
   author:
@@ -2200,6 +2213,7 @@ references:
 - id: alves_unifying_2018
   type: article-journal
   open-access: true
+  citations: 370
   photo: nature-comms.png   
   author:
   - family: Alves
@@ -2300,6 +2314,7 @@ references:
 - id: wang_modeling_2018
   type: article-journal
   open-access: true
+  citations: 530
   photo: syst-biol-67-2.jpeg
   author:
   - family: Wang
@@ -2421,7 +2436,7 @@ references:
 
 - id: kalyaanamoorthy_modelfinder:_2017
   type: article-journal
-  citations: 1014
+  citations: 19000
   photo: nature-methods-14-6.png
   author:
   - family: Kalyaanamoorthy
@@ -2525,7 +2540,7 @@ references:
 - id: chernomor_terrace_2016
   type: article-journal
   open-access: true
-  citations: 263
+  citations: 2200
   photo: syst-biol-65-6.jpeg
   author:
   - family: Chernomor
@@ -2554,7 +2569,7 @@ references:
 - id: trifinopoulos_w-iq-tree:_2016
   type: article-journal
   open-access: true
-  citations: 498
+  citations: 5400
   photo: nuc-acid-res-44-w1.gif
   author:
   - family: Trifinopoulos
@@ -2586,7 +2601,7 @@ references:
 - id: burki_untangling_2016
   type: article-journal
   open-access: true
-  citations: 148
+  citations: 330
   photo: rspb-283-1823.gif
   author:
   - family: Burki
@@ -2800,7 +2815,7 @@ references:
 - id: nguyen_iq-tree:_2015
   type: article-journal
   open-access: true
-  citations: 2902
+  citations: 26000
   photo: mol-biol-evol-32-1.gif
   author:
   - family: Nguyen
@@ -2874,6 +2889,7 @@ references:
 - id: flouri_phylogenetic_2015
   type: article-journal
   open-access: true
+  citations: 230
   photo: syst-biol-64-2.gif
   author:
   - family: Flouri
@@ -2991,6 +3007,7 @@ references:
 - id: dellampio_decisive_2014
   type: article-journal
   open-access: true
+  citations: 130
   photo: mol-biol-evol-31-1.gif
   author:
   - family: Dell’Ampio
@@ -3044,7 +3061,7 @@ references:
 
 - id: minh_ultrafast_2013
   type: article-journal
-  citations: 895
+  citations: 4800
   open-access: true
   photo: mol-biol-evol-30-5.gif
   author:
@@ -3228,6 +3245,7 @@ references:
 - id: krauss_distribution_2009
   type: article-journal
   open-access: true
+  citations: 110
   photo: j-bacter-191-23.gif
   author:
   - family: Krauss
