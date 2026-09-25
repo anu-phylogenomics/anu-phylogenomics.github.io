@@ -4,7 +4,7 @@ title: Chen Yang
 pubname: Chen Yang
 show-publication: true
 position: Research Assisstant
-current: true
+current: false
 period: 2022
 email: u7201888@anu.edu.au
 image: Chen.jpg
