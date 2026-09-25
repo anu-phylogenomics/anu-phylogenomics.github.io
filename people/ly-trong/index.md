@@ -3,7 +3,7 @@ layout: personnel
 title: Nhan Ly-Trong
 pubname: Nhan Ly-Trong
 show-publication: true
-position: Research Fellow, working with Rob Lanfear
+position: Research Fellow, working with Prof. Rob Lanfear
 current: false
 associate: true
 period: 2020-2024 (PhD student) and 2024-2026 (postdoc)

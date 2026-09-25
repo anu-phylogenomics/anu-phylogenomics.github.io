@@ -3,7 +3,7 @@ layout: personnel
 title: Ivan Jeremias
 pubname: Ivan Jeremias
 show-publication: true
-position: PhD student, co-supervised with Rob Lanfear
+position: PhD student, co-supervised with Prof. Rob Lanfear
 associate: true
 period: 2022-
 email: 
