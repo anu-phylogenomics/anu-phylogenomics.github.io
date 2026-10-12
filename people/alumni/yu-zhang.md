@@ -2,7 +2,7 @@
 layout: personnel
 title: Yu Zhang
 pubname: Yu Zhang 
-position: Master student (co-supervisor: Dr. Yu Lin)
+position: Master student (co-supervisor Dr. Yu Lin)
 current: false
 period: 2018-2019
 email: 
