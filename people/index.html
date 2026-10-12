@@ -41,7 +41,7 @@ title_heading: true
 	{% assign person_pages = site.pages | where: "layout" , "personnel" | where: "associate", "true" | sort: "title" %}
 	{% for person in person_pages %}
 		<p>
-		<strong>{{ person.title }},</strong>
+		<a href="{{person.url}}"><strong>{{ person.title }}</strong></a>,
 		<em>{{person.position}}</em>
 	    </p>
     {% endfor %}

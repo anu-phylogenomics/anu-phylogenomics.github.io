@@ -3,7 +3,7 @@ layout: personnel
 title: Jinghang Feng
 pubname: Jinghang Feng
 show-publication: true
-position: Master student
+position: Master student, co-supervised with Dr. Yu Lin and Prof. Benjamin Schwessinger
 current: false
 period: 2022-2023
 email: 
