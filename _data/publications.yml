@@ -2,6 +2,71 @@
 citation_update: 9 Sep 2026
 references:
 
+- abstract: "Modeling substitution rate heterogeneity as a discretized
+    Gamma distribution is standard in phylogenetic inference. Ferretti
+    et al. (2026) have recently demonstrated that the most commonly used
+    equiprobable Gamma rate discretization, known simply as the discrete
+    Gamma model (DGM), substantially overestimates average branch
+    lengths in reconstructed phylogenies when the true rates are drawn
+    from a continuous Gamma distribution. We propose an alternative
+    method to discretize the Gamma rate distribution that considerably
+    reduces the bias in estimated branch lengths and can be used as a
+    drop-in replacement for the standard DGM. The method works
+    especially well on large trees with short branches, yielding up to a
+    20-fold reduction in bias on simulated phylogenies. It is developed
+    by applying quantization-theoretic tools to the analysis of a
+    simplified star-phylogeny abstraction introduced by Ferretti et al.
+    (2026), where the new method is unbiased by construction. We explain
+    Ferretti et al.'s counterintuitive observation that increasing the
+    number of rate categories can exacerbate the bias of the standard
+    DGM, even though this should in principle make DGM a better
+    approximation to the continuous case, and offer our method as an
+    immediately available alternative.Competing Interest StatementThe
+    authors have declared no competing interest.European Commission,
+    DNAMIC 101115389, NEO 101115317European Molecular Biology
+    Laboratory, Theory@EMBL Transversal Theme visitor programmeKiKIT,
+    Foundational Research in Helmholtz programmeImperial College London,
+    Undergraduate Research Opportunities ProgrammeMedical Research
+    Council, MR/Z503526/1U.S. National Science Foundation, DEB-2333243EU
+    ERA Chair program, 101087081Biotechnology and Biological Sciences
+    Research Council, https://ror.org/00cwqg982, BB/Y004132/1,
+    BB/X018571/1"
+  author:
+  - family: Sokolovskii
+    given: Roman
+  - family: Stelz
+    given: Christoph
+  - family: Wang
+    given: Yuning
+  - family: Bettisworth
+    given: Ben
+  - family: Hoang
+    given: Van Nguyen
+  - family: Martin
+    given: Samuel
+  - family: Heinis
+    given: Thomas
+  - family: Kozlov
+    given: Oleksiy M.
+  - family: Minh
+    given: Bui Quang
+  - family: Stamatakis
+    given: Alexandros
+  - family: Yang
+    given: Ziheng
+  - family: Goldman
+    given: Nick
+  container-title: bioRxiv
+  doi: 10.64898/2026.10.30.763052
+  id: Sokolovskii2026.10.30.763052
+  issued: 2026
+  publisher: Cold Spring Harbor Laboratory
+  title: DGM is dead; long live DGM-star! A quantization-theoretic
+    approach to gamma rate discretization
+  type: report
+  url: "https://www.biorxiv.org/content/early/2026/10/31/2026.10.30.763052"
+
+
 - abstract: "Partition models are widely used in phylogenomic analyses
     to account for heterogeneous evolutionary processes across different
     regions or loci of a sequence alignment. How alignment regions are
