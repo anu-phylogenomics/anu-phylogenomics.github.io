@@ -3479,7 +3479,7 @@ references:
     day: 23
   title: 'SimTeller: Improving the Realism of Simulated DNA Alignments and Machine-Learning
     Detection for Simulated Alignments'
-  container-title: Master Theses
+  container-title: Master Thesis
   abstract: 'Phylogenetics infers evolutionary relationships from DNA or protein sequence
     alignments. Simulated alignments are widely used in phylogenetics because they
     provide known ground truth and large-scale reproducible data. However, original
@@ -3507,7 +3507,25 @@ references:
     classifiers that may serve as useful tools for evaluating the realism of simulated
     alignments.'
   URL: https://hdl.handle.net/1885/733813491
+  DOI: 10.25911/VVCC-8G87
 
+- id: rosenberg_thesis_2025
+  type: thesis
+  open-access: true
+  author:
+  - family: Rosenberg
+    given: Rosalita
+  issued:
+  - year: 2025
+  accessed:
+  - year: 2026
+    month: 7
+    day: 23
+  title: 'Using Machine Learning Methods to Estimate Maternal Mortality Ratios'
+  container-title: Honours Thesis
+  URL: https://hdl.handle.net/1885/733816502
+  DOI: 10.25911/2HEF-B469
+  
 - id: ly_thesis_2024
   type: thesis
   open-access: true
@@ -3522,7 +3540,7 @@ references:
     month: 12
     day: 9
   title: 'Phylogenomics in the pandemic era'
-  container-title: PhD Theses
+  container-title: PhD Thesis
   abstract: Phylogenetic inference is fundamental in biology, elucidating evolutionary
     relationships among organisms and shedding light on species’ origins. During
     the COVID-19 pandemic, phylogenetic methods are pivotal in discovering the
@@ -3534,6 +3552,7 @@ references:
     for an urgent need for new efficient methods. To fill this gap, I developed several
     new phylogenetic methods tailored for large-scale genomic data....
   URL: https://hdl.handle.net/1885/733724780
+  DOI: 10.25911/XQV6-3Z60
 
 - id: dong_thesis_2024
   type: thesis
@@ -3549,7 +3568,7 @@ references:
     month: 8
     day: 21
   title: 'Phylogenetic Model Selection via Machine Learning'
-  container-title: Master Theses
+  container-title: Master Thesis
   abstract: "Phylogenetic inference, which reconstructs evolutionary trees from DNA or amino acid sequences, is crucial for understanding the evolutionary histories of species on Earth. Model selection is a fundamental step in this process, determining the best-fit model for the data. However, classic maximum likelihood-based methods for model selection are computationally intensive. This study introduces a machine learning-based framework for amino acid model selection, consisting of three components: protFinder for selecting the best-fit substitution model, RHASFinder for identifying the appropriate rate heterogeneity model, and protFFinder for determining the use of empirical pre-estimated frequencies. Our framework is an order of magnitude faster than the widely used ModelFinder, while maintaining comparable accuracy."
   DOI: 10.25911/G27V-Q356
   URL: https://hdl.handle.net/1885/733721968
@@ -3568,7 +3587,7 @@ references:
     month: 8
     day: 21
   title: 'QuartetNet: Novel Phylogenetic Quartet Tree Reconstruction Using Neural Networks'
-  container-title: Honours Theses
+  container-title: Honours Thesis
   abstract: Phylogenetic reconstruction is fundamental problem in bioinformatics that studies the
     origins and evolutionary of species. Traditionally, statistical inference methods have
     been used to reconstruct phylogentic tree from a Multiple Sequence Alignment (MSA)
@@ -3581,6 +3600,32 @@ references:
     to either match or surpass the performance of stat-of-the-art domain method.
   DOI: 10.25911/7N0A-G389
   URL: https://hdl.handle.net/1885/733713108
+
+- id: nguyen_thesis_2016
+  type: thesis
+  open-access: true
+  author:
+  - family: Nguyen
+    given: Lam-Tung
+  issued:
+  - year: 2016
+    month: 0
+  title: 'Computational methods for fast and accurate phylogenetic inference'
+  container-title: PhD Thesis
+  DOI: 10.25365/thesis.41036
+
+- id: chernomor_thesis_2015
+  type: thesis
+  open-access: true
+  author:
+  - family: Chernomor
+    given: Olga
+  issued:
+  - year: 2015
+    month: 0
+  title: 'Phylogenomics: theory, algorithms and applications'
+  container-title: PhD Thesis
+  DOI: 10.25365/thesis.39935
   
 - id: bui_thesis_2008
   type: thesis
@@ -3596,7 +3641,7 @@ references:
     month: 8
     day: 21
   title: 'Computational Methods in Biodiversity Conservation'
-  container-title: PhD Theses
+  container-title: PhD Thesis
   abstract: Conservation genetics is an emerging discipline that aims at employing genetic methods
     to questions in biodiversity conservation. One main achievement of the  eld is the
     application of phylogenetic trees to assess the diversity of species (Vane-Wright et al.,
@@ -3606,6 +3651,7 @@ references:
     equivalent to the amount of phylogenetic information accumulated by these species. PD
     therefore aims at preserving as much evolutionary history of species as possible...
   URL: https://utheses.univie.ac.at/detail/2838
+  DOI: 10.25365/thesis.3248
   
 - id: cherryh_test_2021
   type: Other reports
