@@ -568,6 +568,8 @@ references:
   issued:
   - year: 2026
     month: 9
+  page: 108744
+  volume: 226
   container-title: Molecular Phylogenetics and Evolution
   publisher: Elsevier
   title: "IQ-NET: Fast and Accurate Quartet Phylogenetic Inference Using Deep Learning Trained on Empirical DNA Alignments"
@@ -733,8 +735,8 @@ references:
   - year: 2026
     month: 2
     day: 5
-  page: syag010
-  volume:
+  page: 1196–1206
+  volume: 75
   title: 'Phylogenetic Accuracy Under Non-Stationary and Non-Homogeneous Conditions: A Simulation Study'
   title-short: The Influence of Model Violation on Phylogenetic Inference
   container-title: Systematic Biology
