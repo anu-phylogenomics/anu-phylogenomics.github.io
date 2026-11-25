@@ -5,7 +5,7 @@ pubname: Jinghang Feng
 show-publication: true
 position: Master student, co-supervised with Dr. Yu Lin and Prof. Benjamin Schwessinger
 current: false
-period: 2022-2023
+period: "2022-2023"
 email: 
 image: 
 image-small: 

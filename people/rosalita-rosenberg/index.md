@@ -5,7 +5,7 @@ pubname: Rosalita Rosenberg
 show-publication: yes
 position: Honours student, <b>University Medal Finalist</b> (co-supervisor A/Prof Nhung Nghiem, JCSMR)
 current: no
-period: 2025
+period: "2025"
 notes: <a href="https://doi.org/10.25911/2HEF-B469">Using Machine Learning Methods to Estimate Maternal Mortality Ratios</a> (Honours thesis) 
 email: u7469137@anu.edu.au
 image: "rosalita_rosenberg.png"

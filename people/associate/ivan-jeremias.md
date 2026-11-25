@@ -5,7 +5,7 @@ pubname: Ivan Jeremias
 show-publication: true
 position: PhD student, co-supervised with Prof. Rob Lanfear
 current: false
-period: 2022-
+period: "2022-2026"
 email: 
 image: 
 image-small: 
