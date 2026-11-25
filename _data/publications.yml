@@ -473,7 +473,7 @@ references:
     month: 04
     day: 08
   title: 'Trimmed Log-Likelihood: A New Approach For Robust Phylogenetics'
-  container-title: bioRxiv
+  container-title: in press
   publisher: Evolutionary Biology
   genre: preprint
   abstract: 'We present a robust phylogenetic inference method, called the trimmed log-likelihood method, which effectively identifies fast-evolving, saturated, or erroneous sites in both simulated and empirical multiple sequence alignments. This method avoids circularity by dynamically identifying and removing sites without relying on an initial tree, allowing the specific sites removed to change as tree topology and branch lengths are estimated. Our analyses demonstrate that this method outperforms existing approaches, such as the Slow-Fast method, Tree Independent Generation of Evolutionary Rate approach, and Le Quesne Probability statistics, by removing fewer sites while still inferring phylogenies with comparable or greater accuracy. Implemented in IQ-TREE2, the trimmed log-likelihood method is user-friendly with a simple command-line interface. However, challenges remain in addressing heterogeneous evolutionary processes including compositional biases, such as GC bias. Despite these challenges, our approach offers a practical solution for improving phylogenetic inference by automatically and dynamically identifying sites to down-weight during phylogenetic analyses. We recommended that researchers compare trees inferred by varying the proportion of down-weighted sites to monitor changes in tree topology and to identify a set of candidate tree topologies for further consideration.'
