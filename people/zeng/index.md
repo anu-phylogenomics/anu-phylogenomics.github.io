@@ -3,9 +3,10 @@ layout: personnel
 title: Manyuan Zeng
 pubname: Manyuan Zeng
 show-publication: true
-position: Master student
-current: true
-period: since 2024
+position: Master student, <b>University Medal Finalist</b>
+current: false
+period: 2025-2026
+notes: <a href="https://doi.org/10.25911/VVCC-8G87">SimTeller - Improving the Realism of Simulated DNA Alignments and Machine-Learning Detection for Simulated Alignments</a> (Master Thesis)
 email: Manyuan.Zeng (at) anu.edu.au
 image: mandy.jpg
 image-small: mandy.jpg
